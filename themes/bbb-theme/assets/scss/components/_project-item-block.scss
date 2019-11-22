@@ -1,0 +1,21 @@
+.project-item {
+	.img-wrap {
+		&.with-indent {
+			padding: rem-calc(15) 0;
+
+			&-bottom {
+				padding-top: 0;
+				padding-bottom: rem-calc(15);
+			}
+		}
+
+		&.with-bottom-border {
+			padding-bottom: 0.9375rem;
+		}
+
+		&.with-side-borders {
+			padding-right: 0.9375rem;
+			padding-left: 0.9375rem;
+		}
+	}
+}

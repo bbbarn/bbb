@@ -1,0 +1,106 @@
+.section-contact {
+	[class^='col-'] {
+		border-right: 2px solid #173350;
+		margin-bottom: rem-calc(27);
+
+		&:nth-child(3n) {
+			border-right: 0;
+		}
+	}
+
+	.row {
+		position: relative;
+		padding-top: rem-calc(11);
+
+		&:before {
+			content: '';
+	    position: absolute;
+	    width: 98%;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    margin: auto;
+	    height: 2px;
+	    background-color: #173350;
+		}
+	}
+
+	.contact-block {
+		padding-bottom: remc-calc(4);
+
+		.title {
+			display: block;
+			font-size: rem-calc(11);
+			color: $blue;
+			margin-bottom: rem-calc(7);
+		}
+
+		li {
+			letter-spacing: 0.13em;
+
+			+ li {
+				margin-top: rem-calc(17);
+			}
+		}
+	}
+
+	.contact-list {
+		@extend %listreset;
+
+		color: $blue;
+		font-size: rem-calc(17);
+		text-transform: uppercase;
+
+		a {
+			color: inherit;
+		}
+	}
+
+	.contact-descr {
+		padding-top: rem-calc(1);
+		padding-left: rem-calc(6);
+
+		.main-text {
+			display: block;
+			margin-bottom: rem-calc(10);
+			font-size: rem-calc(12);
+			color: $blue;
+		}
+
+		p {
+			font-size: rem-calc(9);
+			line-height: 1.5;
+		}
+	}
+
+	.form-holder {
+		padding-left: remc-calc(9px);
+		color: $blue;
+
+		.input-group {
+			line-height: 1;
+			margin-bottom: 0;
+
+			+ .input-group {
+				margin-top: rem-calc(15);
+			}
+		}
+
+		.btn-wrap {
+			text-align: center;
+		}
+
+		.btn {
+			padding: 0 rem-calc(10);
+			height: auto;
+			line-height: 1;
+		}
+	}
+
+	.form-title {
+		display: block;
+		font-size: rem-calc(11);
+		letter-spacing: 0.2em;
+		margin-bottom: rem-calc(10);
+	}
+}

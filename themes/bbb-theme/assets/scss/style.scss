@@ -1,0 +1,49 @@
+
+// devices viewport width starts at:
+$breakpoints: (
+  xs-phone: 320px,
+  phone: 480px,
+  tablet: 768px,
+  desktop: 992px,
+  widescreen: 1200px
+);
+
+// keywords
+$media-expressions: (
+  'screen': 'screen',
+  'print': 'print',
+  'handheld': 'handheld',
+  'landscape': '(orientation: landscape)',
+  'portrait': '(orientation: portrait)',
+  'retina2x': '(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)',
+  'retina3x': '(-webkit-min-device-pixel-ratio: 2.5), (min-resolution: 240dpi)'
+);
+
+// ligatured operators ≥ ≤
+
+@import 'base/mixins';
+@import 'vendors/include-media';
+@import 'vendors/fonts';
+
+@import 'base/utilities';
+@import 'base/variables';
+@import 'base/helpers';
+@import 'base/typography';
+@import 'components/buttons';
+@import 'base/wp-reset';
+@import 'base/form-style';
+
+@import 'components/jumbotron';
+@import 'layout/header';
+@import 'layout/common';
+
+@import 'components/section-cards';
+@import 'components/section-services';
+@import 'components/section-about';
+@import 'components/bread-crumbs-block';
+@import 'components/section-validation';
+@import 'components/section-descr';
+@import 'components/project-item-block';
+@import 'components/section-contact';
+
+@import 'layout/footer';

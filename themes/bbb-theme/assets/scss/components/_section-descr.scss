@@ -1,0 +1,47 @@
+.section-descr {
+	padding-top: rem-calc(19);
+	padding-bottom: rem-calc(26);
+
+	.container {
+		max-width: 910px;
+	}
+
+	.heading {
+		margin-bottom: rem-calc(10);
+		text-align: center;
+	}
+
+	.title {
+		font-size: rem-calc(40);
+		line-height: 1;
+		letter-spacing: 0.05em;
+		margin-bottom: 0;
+
+		@include media('≥tablet') {
+			font-size: rem-calc(59);
+		}
+	}
+
+	.subtitle {
+		display: block;
+		font-size: rem-calc(22);
+		font-weight: 400;
+		text-transform: uppercase;
+		font-family: 'carnaby_streetclean';
+		color: $blue;
+		line-height: 1.2;
+	}
+
+	.text {
+		max-width: 645px;
+    margin: 0 auto;
+		font-size: rem-calc(10);
+    line-height: 1.5;
+
+		strong {
+			display: block;
+			text-align: center;
+			font-style: italic;
+		}
+	}
+}

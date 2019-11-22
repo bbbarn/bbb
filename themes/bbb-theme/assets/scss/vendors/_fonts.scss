@@ -1,0 +1,118 @@
+@font-face {
+    font-family: 'ohno_blazeface12_point';
+    src: url('fonts/ohnoblazeface-12point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-12point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ohno_blazeface14_point';
+    src: url('fonts/ohnoblazeface-14point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-14point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'ohno_blazeface16_point';
+    src: url('fonts/ohnoblazeface-16point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-16point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ohno_blazeface18_point';
+    src: url('fonts/ohnoblazeface-18point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-18point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ohno_blazeface24_point';
+    src: url('fonts/ohnoblazeface-24point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-24point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ohno_blazeface36_point';
+    src: url('fonts/ohnoblazeface-36point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-36point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ohno_blazeface48_point';
+    src: url('fonts/ohnoblazeface-48point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-48point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ohno_blazeface60_point';
+    src: url('fonts/ohnoblazeface-60point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-60point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ohno_blazeface72_point';
+    src: url('fonts/ohnoblazeface-72point.woff2') format('woff2'),
+         url('fonts/ohnoblazeface-72point.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'carnaby_streetblowout';
+    src: url('fonts/fonts/carnabystreet-blowout.woff2') format('woff2'),
+         url('fonts/fonts/carnabystreet-blowout.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'carnaby_streetclean';
+    src: url('fonts/carnabystreet-clean.woff2') format('woff2'),
+         url('fonts/carnabystreet-clean.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'carnaby_streetclean';
+    src: url('fonts/carnabystreet-clean_subset.woff2') format('woff2'),
+         url('fonts/carnabystreet-clean_subset.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'carnaby_streetrough';
+    src: url('fonts/carnabystreet-rough.woff2') format('woff2'),
+         url('fonts/carnabystreet-rough.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@include font-face(vulf-mono, vulf-mono-black, 900, normal);
+@include font-face(vulf-mono, vulf-mono-black-italic, 900, italic);
+
+@include font-face(vulf-mono, vulf-mono-bold, 700, normal);
+@include font-face(vulf-mono, vulf-mono-bold-italic, 700, italic);
+
+@include font-face(vulf-mono, vulf-mono-regular, 400, normal);
+@include font-face(vulf-mono, vulf-mono-italic, 400, italic);
+
+@include font-face(vulf-mono, vulf-mono-light, 300, normal);
+@include font-face(vulf-mono, vulf-mono-light-italic, 300, italic);
+

@@ -1,0 +1,53 @@
+.section-validation {
+	padding-top: rem-calc(15);
+	padding-bottom: rem-calc(40);
+
+	.title {
+		font-size: rem-calc(28);
+		margin-bottom: rem-calc(25);
+		letter-spacing: -0.009em;
+	}
+}
+
+.block-memorandum {
+	max-width: 640px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: rem-calc(15);
+	border: 1px dashed #394d63;
+	font-size: rem-calc(11);
+	color: $blue;
+
+	@include media('≥tablet') {
+		padding: rem-calc(65) rem-calc(100);
+	}
+
+	strong {
+		display: block;
+		font-style: italic;
+		text-transform: uppercase;
+		margin-bottom: rem-calc(17);
+		letter-spacing: 0.1em;
+	}
+}
+
+.tags-list {
+	@extend %listreset;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	max-width: 565px;
+	margin-left: auto;
+	margin-right: auto;
+	font-style: italic;
+	font-size: rem-calc(10);
+	margin-bottom: rem-calc(57);
+
+	li {
+		&:after {
+			content: '/';
+			margin: 0 rem-calc(5);
+		}
+	}
+}

@@ -1,0 +1,68 @@
+// Typography
+
+h1,h2,h3,h4,h5,h6 {
+	line-height: 1.42;
+}
+
+h1 {
+	font-family: 'carnaby_streetclean';
+	letter-spacing: 0.04em;
+	font-size: rem-calc(28);
+
+	@include media('≥desktop') {
+		font-size: $h1-font-size;
+	}
+}
+
+h2 {
+	font-family: 'carnaby_streetclean';
+	font-size: rem-calc(22);
+	color: #173350;
+
+	@include media('≥desktop') {
+		font-size: $h2-font-size;
+	}
+}
+
+h3 {
+	font-family: 'carnaby_streetclean';
+	line-height: 1;
+	letter-spacing: 0.055em;
+	font-size: rem-calc(20);
+	color: #173350;
+	text-transform: uppercase;
+
+	@include media('≥desktop') {
+		font-size: $h3-font-size;
+	}
+}
+
+// h4 {
+
+// 	font-size: rem-calc(18);
+
+// 	@include media('≥desktop') {
+// 		font-size: $h4-font-size;
+// 	}
+// }
+
+h5 {
+	font-family: $vulf-mono-font;
+	font-size: rem-calc(15);
+	color: $blue;
+	text-transform: uppercase;
+	font-weight: 700;
+
+	@include media('≥desktop') {
+		font-size: $h5-font-size;
+	}
+}
+
+// h6 {
+
+// 	font-size: $font-size-base;
+
+// 	@include media('≥desktop') {
+// 		font-size: $h6-font-size;
+// 	}
+// }
