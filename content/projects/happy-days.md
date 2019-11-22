@@ -7,3 +7,6 @@ title = "Happy Days"
 type = "blog"
 
 +++
+This is a blog post
+
+Don't do anything silly
