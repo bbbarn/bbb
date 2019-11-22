@@ -31,4 +31,5 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/projects/crack-shack.md
 - content/projects/happy-days.md
