@@ -10,8 +10,8 @@ sections:
   path: content/about/info.md
   label: Info Page
 - type: directory
-  path: content/blog-posts
-  label: Blog posts
+  path: content/projects
+  label: Projects
   create: all
   match: "**/*"
   templates:
@@ -24,6 +24,7 @@ sections:
 - type: document
   path: config.toml
   label: Site Config
+  read_only: false
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
