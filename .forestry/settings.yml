@@ -16,9 +16,6 @@ sections:
   match: "**/*"
   templates:
   - blog
-- type: document
-  path: content/data/authors.yaml
-  label: Authors List
 - type: heading
   label: Config
 - type: document
