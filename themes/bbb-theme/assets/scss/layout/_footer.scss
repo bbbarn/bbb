@@ -31,7 +31,7 @@
 				margin-top: rem-calc(15);
 
 				@include media('≥tablet') {
-					margin-top: 0;	
+					margin-top: 0;
 				}
 			}
 		}
@@ -50,31 +50,41 @@
 
 	.text-holder {
 		position: relative;
-		padding: rem-calc(8) 0;
+		// padding: rem-calc(8) 0;
+		padding: 0 0 rem-calc(8) 0;
 		margin: 0 (-$grid-gutter-width/2);
 		border-bottom: 2px solid #0a2341;
-		border-top: 2px solid #0a2341;
+		// border-top: 2px solid #0a2341;
 		font-size: rem-calc(10);
 
 		.text {
 			align-items: center;
 		}
 
-		&:before {
-			position: absolute;
-			left: 0;
-			right: 0;
-			top: 0;
-			content: '';
-			height: 5px;
-			background: transparent url('images/triangle.png') center;
+		// &:before {
+		// 	position: absolute;
+		// 	left: 0;
+		// 	right: 0;
+		// 	top: 0;
+		// 	content: '';
+		// 	height: 5px;
+		// 	background: transparent url('images/triangle.png') center;
+		// }
+
+		.collapsed {
+			.decor {
+				transform: none;
+			}
 		}
 
 		.decor {
+			display: inline-block;
+			vertical-align: middle;
 			width: 11px;
-    	height: 12px;
+    		height: 12px;
 			background-image: url('images/arrow-top.png');
 			background-size: cover;
+			transform: rotate(180deg);
 
 			&:first-child {
 				margin-right: rem-calc(20);
@@ -269,13 +279,13 @@
 			&.yellow-icon {
 				i {
 					background-image: url('images/arrow-top-yellow.png');
-				}	
+				}
 			}
 
 			&.blue-icon {
 				i {
 					background-image: url('images/arrow-top-blue.png');
-				}	
+				}
 			}
 	}
 

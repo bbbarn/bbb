@@ -2,3 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "bbb-theme"
 title = "BoyBurnsBarn"
+[taxonomies]
+  tag = "tag"
+  category = "categories"
+  
