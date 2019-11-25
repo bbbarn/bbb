@@ -1,8 +1,36 @@
-		<nav class="nav">
+		<!-- <nav class="nav">
 			<div class="nav-container">
 				<a href="{{ "/" | relURL }}">
 					<h1 class="nav-title">{{ .Site.Title }}</h1>
 				</a>
 				{{ partial "header-menu.html" . }}
 			</div>
-		</nav>
+		</nav> -->
+
+			<header class="header" id="header">
+				<div class="inner">
+					<div class="header-main">
+						<div class="container">
+							<div class="navbar-brand-holder"><a class="navbar-brand" href="#"><img src="images/logo.png" width="118" height="80" alt="image description"></a>
+								<div class="logo-title">
+									<h2>BOYBURNSBARN</h2>
+								</div>
+								<div class="logo-text-sm"><span>WILL HE STRIKE AGAIN?</span>
+								</div>
+							</div>
+							<div class="header-text">
+								<p>A design company specializing in the visual narration of images and words for the creative good of the customer gave itself this name? We’ll get to that later..</p>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-md">
+						<div class="container">
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								{{ partial "navigation-links.html" . }}
+							</div> 
+						</div>
+					</nav>
+				</div>
+			</header>
+		

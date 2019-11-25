@@ -1,12 +1,39 @@
-		<footer>
-				{{- if .Params.Author }}
-				<span>{{ i18n "writtenBy" }}</span>
-						{{ .Params.Author }}
-				{{- else }}
-				<span>{{ i18n "writtenBy" }}</span>
-						{{ .Site.Params.Author }}
-				{{- end }}
-			<span>
-			&copy; <time datetime="{{ now }}">{{ now.Format "2006" }}</time> {{ .Site.Author.name }}. {{ i18n "generator" | safeHTML }}
-			</span>
-		</footer>
+			<footer class="footer" id="footer">
+				<div class="footer-nav">
+					<div class="container">
+						<ul class="navbar-nav">
+							<li><a href="#">See all work!</a></li>
+							<li><a href="#">Learn more!</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="footer-main">
+					<div class="container">
+						<div class="text-holder">
+							<div class="text d-flex justify-content-center flex-wrap"><span class="decor"></span>
+								<div class="descr-block"><span> SEEN ENOUGH ~ HEARD ENOUGH</span><span class="separator">/</span><span>NEW BUSINESS & OTHER INQUIRIES </span></div><span class="decor"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="footer-sub">
+					<div class="container">
+						<div class="inner">
+							<div class="to-top-holder"><a href="#wrapper"><i></i>TOP OF PAGE</a></div>
+							<div class="content-info">
+								<h5 class="title">BOY BURNS BARN LLC</h5>
+								<div class="contacts">
+									<ul class="list">
+										<li><a href="mailto:INFO@BBARN.COM">INFO@BBBARN.COM</a></li>
+										<li><span>PH: </span><a href="phone:646534">646.534.BARN</a></li>
+									</ul>
+								</div>
+								<div class="text">
+									<p>LOCATED IN THE NEW YORK CITY AREA DOING WORK NATIIONALLY AND GLOBALLY ©BOYBURNSBARN ALL RIGHTS RESERVED 2020</p>
+								</div>
+							</div>
+							<div class="soc-holder"><i></i><a href="#">INSTAGRAM FOR BREAKING NEWS</a></div>
+						</div>
+					</div>
+				</div>
+			</footer>

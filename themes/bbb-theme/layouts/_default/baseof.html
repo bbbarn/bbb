@@ -10,9 +10,19 @@
             {{ block "main" . }}{{ end }}
         </body>
     {{ else }}
-        <body >
-            {{ partial "header.html" . }}
-            {{ block "main" . }}{{ end }}
+        <body class="home">
+          <div id="wrapper">
+            {{ block "topnav-holder" . }}{{ end}}
+            {{ block "jumbotron" . }}{{ end }}
+            {{ block "header" . }}{{ end }}
+            <main id="main" role="main">
+                {{ block "main" . }}{{ end }}
+                {{ partial "contact.html" . }}
+            </main>
+            {{ partial "footer.html" . }}
+          </div>
+          {{ partial "javascript"}}
+          
         </body>
     {{ end }}
 </html>
