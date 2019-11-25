@@ -4,10 +4,10 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: subtitle
-  label: subtitle
+  label: Subtitle
 - type: datetime
   name: date
   label: date
@@ -25,13 +25,14 @@ fields:
   label: default
 - type: list
   name: categories
-  label: categories
+  label: Categories
+  description: Areas of work
 - type: text
   name: homepageSummary
-  label: homepageSummary
+  label: Homepage Summary
 - type: text
   name: projectPageSummary
-  label: projectPageSummary
+  label: Project Page Summary
 - type: text
   name: cardImageSlug
-  label: cardImageSlug
+  label: Name of Homepage Image
