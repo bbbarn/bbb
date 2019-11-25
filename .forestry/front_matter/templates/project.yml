@@ -1,0 +1,37 @@
+---
+label: Project
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: type
+  label: type
+- type: text
+  name: author
+  label: author
+- type: text
+  name: hero
+  label: hero
+- type: datetime
+  name: default
+  label: default
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: homepageSummary
+  label: homepageSummary
+- type: text
+  name: projectPageSummary
+  label: projectPageSummary
+- type: text
+  name: cardImageSlug
+  label: cardImageSlug
