@@ -11,4 +11,5 @@ categories: [Brand Identity, Signage, Copywriting, Illustration]
 homepageSummary: "The fast growing iconic destination for a redefining of what chicken and egg sandwiches should be."
 projectPageSummary: ""
 cardImageSlug: "crack"
+heroImageSlug: "crack"
 ---

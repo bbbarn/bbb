@@ -9,6 +9,8 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
 type: ''
+heroImageSlug: "crack"
+
 
 ---
 ## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
