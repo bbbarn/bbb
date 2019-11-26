@@ -1,8 +1,10 @@
 .project-item {
 	.img-wrap {
+
+    text-align: center;
+
 		&.with-indent {
 			padding: rem-calc(15) 0;
-
 			&-bottom {
 				padding-top: 0;
 				padding-bottom: rem-calc(15);
@@ -16,6 +18,18 @@
 		&.with-side-borders {
 			padding-right: 0.9375rem;
 			padding-left: 0.9375rem;
+      max-width: 1200px;
 		}
 	}
+}
+
+
+.project-item {
+  img {
+    text-align:center;
+    width: 100%;
+      
+  }
+  
+  
 }

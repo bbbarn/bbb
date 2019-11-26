@@ -219,7 +219,7 @@ $container-max-widths: (
   sm: 100%,
   md: 100%,
   lg: 100%,
-  xl: 875px
+  xl: 1200px
 ) !default;
 
 // ----------------------------------------------------
@@ -240,7 +240,7 @@ $grid-gutter-width:           20px !default;
 //
 $min-width-container:               320px;
 // $max-width-container:               875px;
-$max-width-container:               1500px;
+$max-width-container:               1200px;
 // ----------------------------------------------------
 
 

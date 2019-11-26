@@ -13,3 +13,13 @@ projectPageSummary: ""
 cardImageSlug: "crack"
 heroImageSlug: "crack"
 ---
+
+{{< figure class="img-wrap with-side-borders" src="/images/project-img-01.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="/images/project-img-02.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="/images/project-img-03.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="/images/project-img-04.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="/images/project-img-05.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="/images/project-img-06.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="/images/project-img-07.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="/images/project-img-08.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="/images/project-img-09.jpg" >}}
