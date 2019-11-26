@@ -13,4 +13,4 @@ heroImageSlug: "crack"
 ---
 
 what
-info
+contact
