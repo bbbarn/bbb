@@ -9,11 +9,13 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
 type: ''
-heroImageSlug: "crack"
-header_message: Thank you for coming to our “about page”. We do our best here to give you a feel of what it might be like working together and why we might even become friends.
+heroImageSlug: crack
+header_message: |-
+  Ever feel like you send an email or leave a message and it gets launched into space never
+  to be seen again? That’s not us. If we don’t reply send for help!
 header_blurb: BURNING WOOD DOES SMELL NICE
----
 
+---
 what
 contact
 asdf
