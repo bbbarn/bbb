@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content/connect/_index.md
   label: Connect
-  match: "**/*"
 - type: directory
   path: content/projects
   label: Projects

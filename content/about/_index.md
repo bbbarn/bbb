@@ -13,7 +13,7 @@ heroImageSlug: crack
 header_message: Thank you for coming to our “about page”. We do our best here to give
   you a feel of what it might be like working together and why we might even become
   friends.
-header_blurb: What are you talking about?
+header_blurb: ALL IT TAKES IS A SPARK
 
 ---
 what
