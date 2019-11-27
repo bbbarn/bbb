@@ -4,17 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
-  templates:
-  - about-page
 - type: heading
   label: Content
 - type: document
-  path: content/about
+  path: content/about/_index.md
   label: Info Page
 - type: directory
   path: content/projects
