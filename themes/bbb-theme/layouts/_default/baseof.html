@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
     {{ partial "head.html" . }}
-    {{ $aboutTitle := "About" }}
-    {{if (eq .Title $aboutTitle) }}
-        {{ $bg := .Site.Data.Settings.primary_color}}
-        {{ $textColor := .Site.Data.Settings.text_color}}
-        <body style="background-color: {{ $bg }}; color: {{ $textColor }};">
-            {{ partial "header.html" . }}
-            {{ block "main" . }}{{ end }}
-        </body>
-    {{ else }}
-        <body class="home">
+        <body class="{{ $.Page.Params.body_type | default "home" }}">
           <div id="wrapper">
             {{ block "topnav-holder" . }}{{ end}}
             {{ block "jumbotron" . }}{{ end }}
@@ -23,5 +14,4 @@
           {{ partial "javascript"}}
           
         </body>
-    {{ end }}
 </html>

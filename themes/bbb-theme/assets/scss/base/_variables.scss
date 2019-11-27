@@ -661,3 +661,8 @@ $vertical-rhythm:                   rem-calc(20px);
 $wp-caption-border:                 $border-width solid $black;
 // ----------------------------------------------------
 
+
+
+
+$transition-fade:             opacity .15s linear !default;
+$transition-collapse:         height 1s ease !default;

@@ -31,6 +31,13 @@
 	}
 }
 
+.contact-page {
+	#header,
+	.navbar-collapse {
+		background-color: #b6f181;
+	}
+}
+
 .work-page {
 	#header,
 	.navbar-collapse {
@@ -60,6 +67,9 @@
 .logo-title {
 	max-width: 645px;
 	flex: 0 0645px;
+  a:hover {
+   text-decoration: none;
+  }
 
 	h2 {
 		position: relative;
@@ -84,6 +94,8 @@
 		@include media('≥desktop') {
 			font-size: rem-calc(105)
 		}
+
+
 
 		&:after {
 			display: none;
@@ -199,7 +211,7 @@
 
 	.navbar-nav {
 		padding: 0;
-		margin-right: 0;
+    margin-right: auto;
 		margin-left: rem-calc(26);
 		text-align: center;
 
@@ -207,6 +219,10 @@
 		&:before {
 			display: none;
 		}
+    
+    ul {
+      margin-right: auto;
+    }
 
 		li {
 			&:before {

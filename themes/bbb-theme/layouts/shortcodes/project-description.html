@@ -1,0 +1,11 @@
+				<section class="section-descr">
+					<div class="container">
+						<div class="heading">
+							<h2 class="title">{{ $.Page.Params.Title | upper }}</h2><strong class="subtitle">{{ $.Page.Params.subtitle | upper }}</strong>
+						</div>
+						<div class="text">
+							{{ .Inner }}
+							<strong>Services Performed: {{ delimit $.Page.Params.Categories ", " }}</strong>
+						</div>
+					</div>
+				</section>

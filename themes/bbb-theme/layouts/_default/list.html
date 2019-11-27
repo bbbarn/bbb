@@ -1,13 +1,20 @@
+
+{{ define "header" }}
+	{{ partial "header.html" . }}
+{{ end}}
+
 {{ define "main" }}
 
-<main >
-		<div class="catalogue">
-				{{ range .Pages }}
-						{{ .Render "summary" }}
-				{{ end }}
-			</div>
-		
-	</div>
-</main>
-
+				<section class="section-cards">
+					<div class="container">
+						<div class="card-heading text-center"><span>SPECIALIZING IN BUT NOT LIMITED TO THE FOLLOWING:</span></div>
+						<div class="card-holder">
+							<div class="row">
+								{{ range first 6 ( where .Site.RegularPages "Type" "project" ) }}
+									{{ .Render "summary" }}
+								{{ end }}
+							</div>
+						</div>
+					</div>
+				</section>
 {{ end }}
