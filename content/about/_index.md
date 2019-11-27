@@ -9,10 +9,14 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
 type: ''
-heroImageSlug: "crack"
-header_message: Thank you for coming to our “about page”. We do our best here to give you a feel of what it might be like working together and why we might even become friends.
+heroImageSlug: crack
+header_message: Thank you for coming to our “about page”. We do our best here to give
+  you a feel of what it might be like working together and why we might even become
+  friends.
 header_blurb: What are you talking about?
----
 
+---
 what
 info
+
+more on this later
