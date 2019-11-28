@@ -1,0 +1,39 @@
+				<div class="bread-crumbs-block">
+					<div class="container">
+						<div class="inner">
+							<nav aria-label="breadcrumb">
+								<ol class="breadcrumb">
+									{{ $projectPage := "Work" }}
+									{{ $actualTitle := .Title }}
+									<li class="breadcrumb-item{{if (eq $actualTitle $projectPage) }} active {{end}}"><a href="/projects">All</a></li>
+									
+									{{ range $key, $values := .Site.Taxonomies.categories }}
+									<li  class="breadcrumb-item{{if (eq ($actualTitle | urlize) $key) }} active {{end}}"><a href="{{ "/" | relLangURL}}categories/{{$key | urlize }}">{{ $key | humanize | title }}</a></li>
+									{{ end }}
+								</ol>
+								
+								
+							</nav>
+							<div class="text">
+								<p>Make a selection to go on a little adventure and see what it is we care so much about.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				
+				
+				
+				{{ range $.Page.Params.Categories }}
+				<div id="name">
+					{{ .Title }}
+				</div>
+				{{ end}}
+				
+				{{- range $.Site.Data.Terms -}}
+				<div id="name">
+					{{ .Title }}
+				</div>
+				{{- end -}}
+				
+				

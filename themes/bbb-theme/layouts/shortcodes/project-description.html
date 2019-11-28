@@ -5,7 +5,7 @@
 						</div>
 						<div class="text">
 							{{ .Inner }}
-							<strong>Services Performed: {{ delimit $.Page.Params.Categories ", " }}</strong>
+							<strong>Services Performed: {{ delimit (apply $.Page.Params.Categories "title" "." ) ", " }}</strong>
 						</div>
 					</div>
 				</section>

@@ -3,7 +3,7 @@
           <h3 class="card-title">{{ .Title }}</h3>
           <div class="card-text">
               <p>{{ .Params.homepageSummary }}</p>
-          </div><strong class="card-subtitle">Branding and Identity</strong>
+          </div><strong class="card-subtitle">{{ delimit (apply .Params.Categories "title" ".") ", " }}</strong>
       </div>
       <div class="card-img">
           <div class="img-black">
