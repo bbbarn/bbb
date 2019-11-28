@@ -13,13 +13,20 @@ sections:
   path: content/connect/_index.md
   label: Connect
 - type: directory
+  path: content/blog-posts
+  label: Blog Posts
+  create: all
+  match: "**/*"
+  templates:
+  - project
+  - blog
+- type: directory
   path: content/projects
   label: Projects
   create: all
   match: "**/*"
   templates:
   - project
-  - blog
 - type: heading
   label: Config
 - type: document
