@@ -83,10 +83,32 @@
 	}
 }
 
+.work-page {
+  .card {
+    .card-title {
+      color: #f18f81;
+      margin-top: 20px;
+      opacity: 0;
+    }
+    &:hover {
+  		.card-title {
+  			color: #173350;
+        opacity: 1;
+  		}
+    };
+  }
+}
+
 .card {
 	color: $black;
 	margin-bottom: rem-calc(7);
 
+  .border-body {
+    border: rem-calc(7px) solid transparent;
+    box-sizing: border-box;
+    
+  }
+  
 	&:hover {
 		text-decoration: none;
 		color: $black;
@@ -94,10 +116,17 @@
 		.img-color {
 			opacity: 1;
 		}
-
+    
+    .border-body {
+      opacity: 1;
+      border: rem-calc(7px) solid #173350;
+;
+    }
 		.card-title {
 			color: #f18f81;
+      opacity: 1;
 		}
+    
 	}
 }
 

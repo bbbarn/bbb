@@ -11,9 +11,9 @@
 
 		<title>
 			{{- if .IsHome }}
-				{{ .Site.Title }}
+				{{ .Site.Title | title }}
 			{{- else }}
-				{{ .Title }} &middot; {{ .Site.Title }}
+				{{ .Title | title }} &middot; {{ .Site.Title }}
 			{{- end }}
 		</title>
 

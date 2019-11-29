@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
     {{ partial "head.html" . }}
+				{{ if (in (split $.Page.Path "/") "categories") }}
+    <body class="work-page">
+			{{ else }}
+    <body class="{{ $.Page.Params.body_type | default "home" }}">
+			{{end }}
+			
         <body class="{{ $.Page.Params.body_type | default "home" }}">
           <div id="wrapper">
             {{ block "topnav-holder" . }}{{ end}}
             {{ block "jumbotron" . }}{{ end }}
-            {{ block "header" . }}{{ end }}
+						{{ if (in (split $.Page.Path "/") "categories") }}
+							{{ with .Site.GetPage "/categories/_index.md" }}
+								{{ block "header" . }}{{ end }}
+							{{ end }}
+						{{ else }}
+						{{ block "header" . }}{{ end }}
+						{{ end }}
             <main id="main" role="main">
                 {{ block "main" . }}{{ end }}
             </main>
@@ -15,3 +27,5 @@
           
         </body>
 </html>
+				<!-- 
+						 -->
