@@ -2,3 +2,5 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "bbb-theme"
 title = "BoyBurnsBarn"
+[markup.goldmark.renderer]
+unsafe= true
