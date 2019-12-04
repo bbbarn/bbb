@@ -20,6 +20,10 @@ sections:
   templates:
   - project
   - blog
+- type: document
+  path: projects/_index.md
+  label: Work
+  match: "**/*"
 - type: directory
   path: content/projects
   label: Projects
