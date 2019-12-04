@@ -6,14 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: directory
-  path: content/projects
-  label: Projects
-  create: all
-  match: "**/*"
-  templates:
-  - about-page
-  - project
 - type: document
   path: content/about/_index.md
   label: Info Page
@@ -31,6 +23,15 @@ sections:
 - type: document
   path: projects/_index.md
   label: Work
+- type: directory
+  path: content/projects
+  label: Projects
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - about-page
+  - project
 - type: heading
   label: Config
 - type: document
