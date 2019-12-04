@@ -36,5 +36,3 @@ fields:
 - type: text
   name: cardImageSlug
   label: Name of Homepage Image
-pages:
-- content/projects/testing.md
