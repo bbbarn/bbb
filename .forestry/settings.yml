@@ -21,7 +21,7 @@ sections:
   - project
   - blog
 - type: document
-  path: projects/_index.md
+  path: content/projects/_index.md
   label: Work
 - type: directory
   path: content/projects
