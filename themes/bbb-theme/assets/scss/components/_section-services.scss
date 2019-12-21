@@ -2,7 +2,7 @@
 	padding: rem-calc(16);
 
 	@include media('≥tablet') {
-		padding: 0;
+		padding: 0 15px;
 		padding-bottom: rem-calc(24);
 	}
 
@@ -33,7 +33,7 @@
 
 	.services-block {
 		
-    max-width: 855px;
+    max-width:  $max-width-container;
     margin-left: auto;
     margin-right: auto;
     padding: rem-calc(15) rem-calc(20);
@@ -81,7 +81,11 @@
 		font-size: rem-calc(17);
 
 		@include media('≥tablet') {
-			font-size: rem-calc(10);
+			font-size: rem-calc(20);
+		}
+
+		@include media('≤1500px') {
+			padding: 0 15px 0 15px;
 		}
 
 		li {
@@ -125,8 +129,8 @@
 		padding: rem-calc(9) 0 rem-calc(9) rem-calc(3);
 
 		@include media('≥phone') {
-			max-width: 125px;
-			flex: 0 0 125px;
+			max-width: 185px;
+			flex: 0 0 185px;
 			margin-left: 0;
 			margin-right: 0;
 		}
@@ -172,7 +176,7 @@
 		}
 
 		.list {
-			font-size: rem-calc(14);
+			font-size: rem-calc(20);
 			font-style: italic;
 			font-weight: 700;
 			margin: 0;

@@ -64,9 +64,12 @@
 	}
 }
 
+.navigation-logo-title {
+  display: none;
+}
 .logo-title {
 	max-width: 645px;
-	flex: 0 0645px;
+	//flex: 0 0 645px;
   a:hover {
    text-decoration: none;
   }
@@ -137,7 +140,7 @@
 	max-width: 105px;
 	flex: 0 0 105px;
 	font-weight: 800;
-	font-size: rem-calc(16);
+	font-size: rem-calc(14);
 	color: #173350;
 	text-align: center;
 	line-height: 1.2;
@@ -147,6 +150,14 @@
 	@include media('≥tablet') {
 		display: block;
 	}
+  
+	@include media('≥desktop') {
+		font-size: rem-calc(16);
+  	max-width: 115px;
+  	flex: 0 0 115px;
+    
+	}
+  
 }
 
 .header-text {
@@ -183,14 +194,70 @@
 	&.topnavbar {
 		color: $white;
 	}
+
+	&.fixed-position {
+		border-bottom: 1px solid black;
+		
+		padding: 0px;
+		
+	   .container{
+		 	@include media('≤tablet') {
+		 		display: none;
+		 	}
+	    max-width:1500px;
+
+			padding: 0px;
+
+				.navigation-logo-title {
+					display: block;
+					position: absolute;
+					margin-left: 200px;
+					padding:0;
+					margin:0;
+					a {
+						text-decoration: none;
+					}
+					h2 {
+						font-size: rem-calc(40);
+						margin:0;
+						padding: 0;
+						color: $coral;
+					}
+				}
+      
+				div{
+					&.navbar-collapse {
+						background-color: #f5f4eb;
+					}
+				
+				}
+			
+				
+				padding: 0px;
+			
+				.navbar-nav{
+					&:after,
+					&:before {
+						display: none;
+					}
+				}
+//			}
+			
+	  }
+		
+		
+	}
+
 }
+
 
 .topnavbar-holder {
 	// @include animate(border-bottom background-color);
 
 	display: none;
-	position: fixed;
+	position: relative;
 	left: 0;
+  
 	right: 0;
 	z-index: 999;
 	top: 16px;
@@ -198,6 +265,8 @@
 
 	@include media('≥tablet') {
 		display: block;
+  	position: relative;
+    top:50px;
 	}
 
 	.inner {
@@ -211,18 +280,14 @@
 
 	.navbar-nav {
 		padding: 0;
-    margin-right: auto;
-		margin-left: rem-calc(26);
-		text-align: center;
+    margin-right: 0;
+    margin-left: rem-calc(26);
+    text-align: center;
 
 		&:after,
 		&:before {
 			display: none;
 		}
-    
-    ul {
-      margin-right: auto;
-    }
 
 		li {
 			&:before {
@@ -268,6 +333,8 @@
 
 .fixed-position,
 .header-project {
+  z-index: 99999;
+  background-color: #f5f4eb;
 	.navbar-brand {
 		opacity: 1;
 		margin-left: 0;
@@ -284,10 +351,12 @@
 	.navbar {
 		&.topnavbar {
 			color: $blue;
+
 		}
 	}
 
 	.navbar-nav {
+//          margin-left: 335px;
 		li {
 			+ li {
 				&:before {
@@ -341,7 +410,12 @@
 			max-width: 353px;
 			width: 100%;
 		}
+     
+    
 	}
+  
+	
+	
 
 	&:before {
 		top: auto;

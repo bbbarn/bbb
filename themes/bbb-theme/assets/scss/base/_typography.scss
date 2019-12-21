@@ -7,10 +7,16 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
 	font-family: 'carnaby_streetclean';
 	letter-spacing: 0.04em;
-	font-size: rem-calc(28);
+	font-size: rem-calc(140);
 
-	@include media('≥desktop') {
+	@include media('≥1400px') {
 		font-size: $h1-font-size;
+	}
+	@include media('≥1300px'){
+  	font-size: rem-calc(200);
+	}
+	@include media('≥1200px'){
+  	font-size: rem-calc(180);
 	}
 }
 

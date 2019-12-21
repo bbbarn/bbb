@@ -1,10 +1,4 @@
 <div class="col-sm-6 col-md-4"><a class="card" href="{{ .URL }}">
-      <div class="card-body">
-          <h3 class="card-title">{{ .Title }}</h3>
-          <div class="card-text">
-              <p>{{ .Params.homepageSummary }}</p>
-          </div><strong class="card-subtitle">{{ delimit (apply .Params.Categories "title" ".") ", " }}</strong>
-      </div>
       <div class="card-img">
           <div class="img-black">
               <div class="bg-stretch"><span data-srcset="images/card-img-bk-{{ .Params.cardImageSlug }}.jpg, images/card-img-bk-{{ .Params.cardImageSlug }}-2x.jpg 2x"></span><span data-srcset="images/card-img-bk-{{ .Params.cardImageSlug }}.jpg" data-media="(min-width: 768px)"></span></div>
@@ -12,5 +6,12 @@
           <div class="img-color">
               <div class="bg-stretch"><span data-srcset="images/card-img-{{ .Params.cardImageSlug }}.jpg, images/card-img-{{ .Params.cardImageSlug }}-2x.jpg 2x"></span><span data-srcset="images/card-img-{{ .Params.cardImageSlug }}.jpg" data-media="(min-width: 768px)"></span></div>
           </div>
-      </div></a>
+      </div>
+      <div class="card-body">
+          <h3 class="card-title">{{ .Title }}</h3>
+          <div class="card-text">
+              <p>{{ .Params.homepageSummary }}</p>
+          </div><strong class="card-subtitle">{{ delimit (apply .Params.Categories "title" ".") ", " }}</strong>
+      </div>
+</a>
 </div>

@@ -1,18 +1,17 @@
-			<header class="header-about" id="header-project">
-				<div class="topnavbar-holder">
-					<nav class="topnavbar navbar navbar-expand-md">
+			<header class="header-project">
+					<nav class="navbar navbar-expand-md fixed-position">
 						<div class="container">
-							<div class="inner">
-								<div class="mobile-brand-holder">
-									<div class="navbar-brand"><a href="/">BOYBURNSBARN</a></div>
-									<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarproject" aria-controls="navbarproject" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+							<!-- <div class="inner-width"> -->
+									
+								<div class="navigation-logo-title">
+									<a href="/"><h2>BOYBURNSBARN</h2></a>
 								</div>
-								<div class="collapse navbar-collapse" id="navbarproject">
-									<div class="navbar-brand"><a href="/">BOYBURNSBARN</a></div>
-									{{ partial "navigation-links.html" }}
-								</div>
-							</div>
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+								<div class="collapse navbar-collapse" id="navbarSupportedContent">
+									{{ partial "navigation-links.html" . }}
+								</div> 
+							<!-- </div> -->
+								
 						</div>
 					</nav>
-				</div>
-			</header>
+			</header	>

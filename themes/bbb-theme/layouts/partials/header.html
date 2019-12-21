@@ -9,7 +9,9 @@
 
 			<header class="header" id="header">
 				<div class="inner">
+
 					<div class="header-main">
+
 						<div class="container">
 							<div class="navbar-brand-holder"><a class="navbar-brand" href="#"><img src="/images/logo.png" width="118" height="80" alt="image description"></a>
 								<div class="logo-title">
@@ -23,14 +25,23 @@
 							</div>
 						</div>
 					</div>
+
 					<nav class="navbar navbar-expand-md">
 						<div class="container">
-							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-							<div class="collapse navbar-collapse" id="navbarSupportedContent">
-								{{ partial "navigation-links.html" . }}
-							</div> 
+							<!-- <div class="inner-width"> -->
+									
+								<div class="navigation-logo-title">
+									<a href="/"><h2>BOYBURNSBARN</h2></a>
+								</div>
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+								<div class="collapse navbar-collapse" id="navbarSupportedContent">
+									{{ partial "navigation-links.html" . }}
+								</div> 
+							<!-- </div> -->
+								
 						</div>
 					</nav>
 				</div>
 			</header>
+
 		

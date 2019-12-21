@@ -24,7 +24,8 @@
 
 	.subtitle {
 		display: block;
-		font-size: rem-calc(22);
+		font-size: rem-calc(30);
+    letter-spacing: rem-calc(3);
 		font-weight: 400;
 		text-transform: uppercase;
 		font-family: 'carnaby_streetclean';
@@ -35,7 +36,7 @@
 	.text {
 		max-width: 645px;
     margin: 0 auto;
-		font-size: rem-calc(10);
+		font-size: rem-calc(12);
     line-height: 1.5;
 
 		strong {

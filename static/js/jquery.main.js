@@ -19,20 +19,27 @@ function initRetinaCover() {
 
 // initialize fixed blocks on scroll
 function initStickyScrollBlock() {
-	jQuery('.topnavbar-holder').stickyScrollBlock({
+	stickyOpts = {
 		setBoxHeight: false,
 		activeClass: 'fixed-position',
 		positionType: 'fixed',
 		extraTop: function() {
       
 			var totalHeight = 0;
-			jQuery('0').each(function() {
+			jQuery("0").each(function() {
+        console.log(this);
 				totalHeight += jQuery(this).outerHeight();
 			});
-      
-			return totalHeight;
+      console.log('hi')
+      console.log(totalHeight)
+      return totalHeight;
+      // return 500;
 		}
-	});
+	}
+  
+  jQuery('#header .navbar').stickyScrollBlock(stickyOpts);
+  jQuery('.header-project .navbar').stickyScrollBlock(stickyOpts);
+  
 }
 
 /*!
