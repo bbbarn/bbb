@@ -41,7 +41,7 @@ sections:
   path: config.toml
   label: Site Config
 upload_dir: ''
-public_path: https://assets.boyburnsbarn.com/images/fit-in/980x/filters:autojpg()
+public_path: https://d1mw1d2me4nxfw.cloudfront.net
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
