@@ -38,18 +38,18 @@
 	.row {
 		position: relative;
 		padding-top: rem-calc(11);
-
-		// &:before {
-		// 	content: '';
-		// 	position: absolute;
-		// 	width: 98%;
-		// 	top: 0;
-		// 	left: 0;
-		// 	right: 0;
-		// 	margin: auto;
-		// 	height: 2px;
-		// 	background-color: #173350;
-		// }
+    
+		 &:before {
+       content: '';
+       position: absolute;
+       width: 98%;
+       top: 0;
+       left: 0;
+       right: 0;
+       margin: auto;
+       height: 2px;
+       background-color: #173350;
+     }
 	}
 
 	.contact-block {
