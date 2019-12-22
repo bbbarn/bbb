@@ -24,6 +24,39 @@
 	}
 }
 
+#header-project-single {
+	position: relative;
+	z-index: 9;
+
+	@include media('≥tablet') {
+		padding-top: 0;
+		padding-bottom: 0;
+    
+	}
+ .container{
+   @include media('≤tablet') {
+     display: flex;
+     flex-wrap: nowrap;
+     align-items: center;
+     justify-content: space-between;
+     padding: 0 rem-cal(2);
+     padding-right: 20px;
+     padding-top: rem-calc(10);
+     padding-bottom: rem-calc(10);
+    }
+    .navbar-toggler {
+      @include media('≤tablet') {
+        width: 25px;
+        margin-left: auto;
+        margin-right: 10px;
+        display: block;
+      }
+    }
+  }
+	
+}
+
+
 .about-page {
 	#header,
 	.navbar-collapse {
@@ -194,7 +227,7 @@
 	&.topnavbar {
 		color: $white;
 	}
-
+  &.fixed-position-faux,
 	&.fixed-position {
 		border-bottom: 1px solid black;
 		
@@ -220,8 +253,10 @@
 					h2 {
 						font-size: rem-calc(40);
 						margin:0;
-						padding: 0;
+						padding: 0 0 0 10px;
 						color: $coral;
+            
+            
 					}
 				}
       
@@ -236,6 +271,15 @@
 				padding: 0px;
 			
 				.navbar-nav{
+          &.mr-auto{
+            @include media('≤1024px') {
+              margin-right: 0 !important;
+            }
+            @include media('≤768px') {
+              margin-right: auto !important;;
+            }
+            
+          }
 					&:after,
 					&:before {
 						display: none;
@@ -337,7 +381,6 @@
   background-color: #f5f4eb;
 	.navbar-brand {
 		opacity: 1;
-		margin-left: 0;
 	}
 
 	.topnavbar {
