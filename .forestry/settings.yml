@@ -40,8 +40,8 @@ sections:
 - type: document
   path: config.toml
   label: Site Config
-upload_dir: static/images
-public_path: "/images"
+upload_dir: uploads
+public_path: https://assets.boyburnsbarn.com/images/fit-in/980x/filters:autojpg()
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
