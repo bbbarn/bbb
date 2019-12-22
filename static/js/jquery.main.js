@@ -2,7 +2,21 @@ jQuery(function(){
     initRetinaCover();
     initStickyScrollBlock();
     initAnchors();
+    removeJumbo();
 });
+
+function removeJumbo(){
+  jQuery(window).on('scroll', function () {
+    var top = jQuery(window).scrollTop(),
+    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight();
+    if (divBottom > top) {
+      // jQuery('.jumbotron').removeClass('out-of-view');
+    } else {
+      jQuery('.jumbotron-remove').addClass('out-of-view');
+      initStickyScrollBlock();
+    }
+  });
+}
 
 // initialize smooth anchor links
 function initAnchors() {
@@ -24,14 +38,11 @@ function initStickyScrollBlock() {
 		activeClass: 'fixed-position',
 		positionType: 'fixed',
 		extraTop: function() {
-      
 			var totalHeight = 0;
 			jQuery("0").each(function() {
-        console.log(this);
+
 				totalHeight += jQuery(this).outerHeight();
 			});
-      console.log('hi')
-      console.log(totalHeight)
       return totalHeight;
       // return 500;
 		}
