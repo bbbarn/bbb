@@ -5,7 +5,7 @@
 {{ define "jumbotron" }}
 				<section class="jumbotron jumbotron-full-width">
 					<div class="jumbotron-img">
-						<div class="bg-stretch"><span data-srcset="/images/banner-img-{{.Params.heroImageSlug}}.jpg, /images/banner-img-{{.Params.heroImageSlug}}-2x.jpg 2x"></span><span data-srcset="/images/banner-img-{{.Params.heroImageSlug}}.jpg" data-media="(min-width: 768px)"></span></div>
+						<div class="bg-stretch"><span data-srcset="https://d1mw1d2me4nxfw.cloudfront.net/fit-in/1000x700/flters:autojpg()/banner-{{ .Params.cardImageSlug }}.jpg, https://d1mw1d2me4nxfw.cloudfront.net/flters:autojpg()/banner-{{ .Params.cardImageSlug }}.jpg 2x"></span><span data-srcset="https://d1mw1d2me4nxfw.cloudfront.net/fit-in/1000x700/flters:autojpg()/banner-{{ .Params.cardImageSlug }}.jpg" data-media="(min-width: 768px)"></span></div>
 					</div>
 				</section>
 {{ end}}
