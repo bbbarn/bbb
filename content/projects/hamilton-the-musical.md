@@ -23,14 +23,14 @@ subtitle: ''
 {{< /project-description >}}
 
 <div class="project-item">
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-01.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-02.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-03.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-04.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-05.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-06.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-07.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-08.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-09.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/project-hamilton-10.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-01.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-02.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-03.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-04.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-05.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-06.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-07.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-08.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-09.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-10.jpg" >}}
 </div>
