@@ -11,6 +11,7 @@ homepageSummary: It really is a good show. The souvenir book is a mere glimpse i
   the genius of this American musical.
 projectPageSummary: ''
 cardImageSlug: hamilton
+draft: true
 
 ---
 {{< project-description >}}
