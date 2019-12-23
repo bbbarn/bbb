@@ -36,3 +36,6 @@ fields:
 - type: text
   name: cardImageSlug
   label: Name of Homepage Image
+pages:
+- content/projects/hamilton-the-musical.md
+- content/projects/the-crack-shack.md
