@@ -4,7 +4,7 @@ cardImageSlug: "duck"
 categories: ["Illustration", "Signage", "Brand Identity"]
 date: 2019-12-30T05:00:00Z
 default: 2019-12-30T05:00:00Z
-draft: true
+draft: false
 hero: "https://source.unsplash.com/random"
 homepageSummary: "Duck Pin Bowling never looked so good. Its the venue and event you didn't know you needed until this place opened. The branding came easy for this one."
 projectPageSummary: ""
