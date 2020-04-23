@@ -18,7 +18,7 @@ type = ""
 {{< /project-description >}}
 
 <div class="project-item">
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-01.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-01.jpg" >}}
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-02.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net//images/project-lucky-03.jpg" >}}
 </div>
