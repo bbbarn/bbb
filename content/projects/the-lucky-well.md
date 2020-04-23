@@ -4,7 +4,6 @@ cardImageSlug = "lucky"
 categories = ["Signage", "Brand Identity"]
 date = 2020-04-23T04:00:00Z
 default = ""
-draft = true
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
