@@ -37,10 +37,15 @@ function initStickyScrollBlock() {
 		setBoxHeight: false,
 		activeClass: 'fixed-position',
 		positionType: 'fixed',
+    fixedOn: function(){
+      jQuery('section.section-fix').addClass('section-fixed-on');
+    },
+    fixedOff: function(){
+      jQuery('section.section-fix').removeClass('section-fixed-on');
+    },
 		extraTop: function() {
 			var totalHeight = 0;
 			jQuery("0").each(function() {
-
 				totalHeight += jQuery(this).outerHeight();
 			});
       return totalHeight;

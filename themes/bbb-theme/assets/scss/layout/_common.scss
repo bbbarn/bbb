@@ -33,3 +33,9 @@ a[href^=skype]{
 figure {
   margin: auto;
 }
+
+section {
+  &.section-fixed-on {
+    padding-top: 3.25em;
+  }
+}
