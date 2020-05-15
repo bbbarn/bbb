@@ -38,6 +38,7 @@ fields:
   label: Name of Homepage Image
 pages:
 - content/projects/hamilton-the-musical.md
+- content/projects/nexto.md
 - content/projects/the-crack-shack.md
 - content/projects/the-lucky-well.md
 - content/projects/the-painted-duck.md
