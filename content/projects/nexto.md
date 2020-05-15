@@ -28,3 +28,12 @@ src="https://s3.amazonaws.com/bbbarn-images/project-nexto-03.jpg" >}}
 {{< figure class="img-wrap with-side-borders" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-04.jpg" >}}
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-05.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-06.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-07.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-08.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-09.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-10.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-11.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-12.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-13.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-14.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-15.jpg" >}}
