@@ -23,5 +23,9 @@ type = ""
 {{< figure class="img-wrap with-side-borders" src="![](https://s3.amazonaws.com/bbbarn-images/project-nexto-01.jpg)" >}}
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="![](https://s3.amazonaws.com/bbbarn-images/project-nexto-02.jpg)" >}}
 {{< figure class="img-wrap with-bottom-border" src="![](https://s3.amazonaws.com/bbbarn-images/project-nexto-03.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-nexto-04.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-nexto-05.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net//images/project-nexto-06.jpg" >}}
+</div>
 
 </div>
