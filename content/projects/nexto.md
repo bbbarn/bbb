@@ -1,6 +1,6 @@
 +++
 author = ""
-cardImageSlug = "nexto"
+cardImageSlug = "neksto"
 categories = ["Brand Identity", "Signage"]
 date = 2020-05-15T04:00:00Z
 default = ""
@@ -20,20 +20,20 @@ type = ""
 
 <div class="project-item">
 {{< figure class="img-wrap with-side-borders"
-src="https://s3.amazonaws.com/bbbarn-images/project-nexto-01.jpg" >}}
+src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-01.jpg" >}}
 {{< figure class="img-wrap with-side-borders with-bottom-border" 
-src="https://s3.amazonaws.com/bbbarn-images/project-nexto-02.jpg" >}}
+src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-02.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" 
-src="https://s3.amazonaws.com/bbbarn-images/project-nexto-03.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-04.jpg" >}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-05.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-06.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-07.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-08.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-09.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-10.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-11.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-12.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-13.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-14.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-nexto-15.jpg" >}}
+src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-03.jpg" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-04.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-05.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-06.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-07.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-08.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-09.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-10.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-11.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-12.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-13.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-14.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-15.jpg" >}}
