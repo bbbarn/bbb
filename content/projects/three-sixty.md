@@ -1,6 +1,6 @@
 +++
 author = ""
-cardImageSlug = "threesixty"
+cardImageSlug = "threesickty"
 categories = ["Brand Identity", "Signage"]
 date = 2020-05-23T04:00:00Z
 default = ""
@@ -19,4 +19,4 @@ type = ""
 <p>The business card doubles as a landmark finder. On one side we blind embossed the logo at the center and placed all of the city's landmarks in a typographic 360° map. Using the provided magnet, you can anchor the card to point north. Then you have a reference guide to all the things you can see around you.To accompany the business card and menus we created steel menu tents with a water jet cut-out of the logo. These table fixtures serve dual purposes: storage for the single folded menus where they are protected from the rain and wind and as magnetic canvases to hold everything from the check presenter to a magnetic reserved sign.</p>
 {{< /project-description >}}
 
-<div class="project-item"> {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-threesixty-01.jpg" >}}
+<div class="project-item"> {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-threesickty-01.jpg" >}}
