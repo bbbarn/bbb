@@ -224,6 +224,9 @@
 		padding: rem-calc(13) 0 0;
 	}
 
+  .front-cover {
+    display: none;
+  }
 	&.topnavbar {
 		color: $white;
 	}
@@ -240,10 +243,25 @@
 	    max-width:1500px;
 
 			padding: 0px;
+        .front-cover {
+          display: flex;
+          flex-direction: row;
+          position: relative;
+          a {
+            color: $coral;
+            font-weight: bold;
+            text-decoration: none;
+          }
+          
+          .front-cover-exclaim {
+            font-size: rem-calc(25);
+          }
+        
+      }
 
 				.navigation-logo-title {
 					display: block;
-					position: absolute;
+//          position: absolute;
 					margin-left: 200px;
 					padding:0;
 					margin:0;
