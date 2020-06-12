@@ -14,8 +14,8 @@ type = ""
 
 +++
 {{< project-description >}}
-<p>The Lucky Well, helmed by chef Chad Rosenthal, brings his stylized version of authentic BBQ to the northeast and gives people a reason to drive north of Philly for a special dining experience. Located in Ambler, Pennsylvania, a cozy and attractive town, The Lucky Well sits right on Main St. as a perfect compliment to its shopping and cultural neighbors. BoyBurnsBarn was asked to create a brand that blends the comfort food aura of BBQ with a more fine dining experience that still feels casual. </p>
-<p>The Lucky Well used to be famous hotel in the region that no longer exists. Old post cards of Ambler often featured the Lucky Well hotel as a main town feature. Chad chose to adopt the name and bring it back to its iconic status. We embraced the name and loved the idea of combining a BBQ vibe with some good luck tokens. A horse shoe sits prominently in the logo while other support graphics feature more than a dozen lucky pennies… floating softly into that “lucky well”. And, of course, lets not forget our illustrated cooker with its lucky penny puffs of smoke!</p>
+<p>Waterkeeper Alliance celebrated their 20th anniversary in 2019. With that came an "anniversary edition" of their logo as well as additional branding and promotional items that helped them feature 20 Water Keepers from around the world in celebration of this milestone event. </p>
+<p>One of the real joys of working on a project like this is really good photography capturing really good subject matter. Here we get the portraits of global citizens making a difference. BoyBurnsBarn was tasked with being a steward of these images and the 20th Anniversary branding by laying out two special edition magazine issues, the display and graphics for the Photoville Exhibit in Brooklyn, NY and the digital banners seen at the Cross Roads of the World, Times Square.</p>
 {{< /project-description >}}
 
 <div class="project-item">
