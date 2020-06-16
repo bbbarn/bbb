@@ -12,6 +12,7 @@
 		padding-top: 0;
 		padding-bottom: 0;
 		letter-spacing: .1em;
+  	color: $blue;
 
 		@include media('≥tablet') {
 			display: flex;
@@ -55,7 +56,7 @@
 		margin: 0 (-$grid-gutter-width/2);
 		border-bottom: 2px solid #0a2341;
 		// border-top: 2px solid #0a2341;
-		font-size: rem-calc(10);
+		font-size: rem-calc(20);
 
 		.text {
 			align-items: center;
@@ -138,12 +139,12 @@
 
 		.title {
 			text-align: center;
-			letter-spacing: .1em;
+			letter-spacing: .15em;
 			margin-bottom: rem-calc(9);
 			max-width: 100px;
 	    margin-left: auto;
 	    margin-right: auto;
-
+      font-size: rem-calc(18);
 	    @include media('≥tablet') {
 	    	max-width: none;
 				margin-left: 0;
@@ -153,9 +154,11 @@
 
 		.text {
 			font-family: 'carnaby_streetclean';
-			font-size: rem-calc(10);
+			font-size: rem-calc(14);
 			text-align: center;
-			letter-spacing: 0.11em;
+			letter-spacing: 0.15em;
+    	color: $blue;
+      
 
 			p {
 				margin-bottom: 0;
@@ -163,8 +166,12 @@
 		}
 	}
 
-	.contacts {
+	.contacts li {
+  	color: $blue;
+    
 		margin-bottom: 10px;
+		font-size: rem-calc(14);
+		letter-spacing: 0.15em;
 	}
 
 	.list {
@@ -221,7 +228,7 @@
 		a {
 			display: block;
 			font-family: 'carnaby_streetclean';
-			font-size: rem-calc(10);
+			font-size: rem-calc(11);
 			letter-spacing: .1em;
 			max-width: 61px;
 			margin-left: auto;
