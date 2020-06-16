@@ -14,8 +14,8 @@ type = ""
 
 +++
 {{< project-description >}}
-<p>Waterkeeper Alliance celebrated their 20th anniversary in 2019. With that came an "anniversary edition" of their logo as well as additional branding and promotional items that helped them feature 20 Water Keepers from around the world in celebration of this milestone event. </p>
-<p>One of the real joys of working on a project like this is really good photography capturing really good subject matter. Here we get the portraits of global citizens making a difference. BoyBurnsBarn was tasked with being a steward of these images and the 20th Anniversary branding by laying out two special edition magazine issues, the display and graphics for the Photoville Exhibit in Brooklyn, NY and the digital banners seen at the Cross Roads of the World, Times Square.</p>
+<p>NECTARINE GROVE CALLS ITSELF A “LIFESTYLE RESTAURANT” because they understand they know a lot of their customer base who seek out 100% gluten-free, organic meals live that life day-in and day-out. While some people might find those sort of markets/restaurants unapproachable we wanted to create a brand experience that was fun, welcoming and light.</p>
+<p>They already arrived at the name Nectarine Grove and to start things off nectarine’s already bring their own certain “cheeky” charm. It was unavoidable! So we designed our little nectarine lady with leaf hair, sitting in the buff looking off into the distance. The tagline “nothing to hide” became the PERFECT fit. All organic ingredients, locally sourced, no refined sugars, no soy, no corn, no processed ingredients… they literally have nothing to hide. All in a charming market with fun to-go packaging and branded materials making shopping here a lifestyle statement for all.</p>
 {{< /project-description >}}
 
 <div class="project-item">
