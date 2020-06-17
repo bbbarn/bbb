@@ -8,7 +8,7 @@ draft = true
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
-subtitle = "CHICAGO'S NAVY PIER GETS A ROOF TOP EXPERIENCE"
+subtitle = "CHICAGO’S NAVY PIER GETS A ROOF TOP EXPERIENCE"
 title = "OFFSHORE"
 type = ""
 
