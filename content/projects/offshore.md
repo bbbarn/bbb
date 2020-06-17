@@ -14,8 +14,8 @@ type = ""
 
 +++
 {{< project-description >}}
-<p>NECTARINE GROVE CALLS ITSELF A “LIFESTYLE RESTAURANT” because they understand they know a lot of their customer base who seek out 100% gluten-free, organic meals live that life day-in and day-out. While some people might find those sort of markets/restaurants unapproachable we wanted to create a brand experience that was fun, welcoming and light.</p>
-<p>They already arrived at the name Nectarine Grove and to start things off nectarine’s already bring their own certain “cheeky” charm. It was unavoidable! So we designed our little nectarine lady with leaf hair, sitting in the buff looking off into the distance. The tagline “nothing to hide” became the PERFECT fit. All organic ingredients, locally sourced, no refined sugars, no soy, no corn, no processed ingredients… they literally have nothing to hide. All in a charming market with fun to-go packaging and branded materials making shopping here a lifestyle statement for all.</p>
+<p>CHICAGO’S HISTORIC NAVY PIER is an iconic piece of Chicago’s water front. It played a significant role in Chicago’s existence through World Fair’s and World War’s and is now a communal destination housing numerous dining and cultural experiences. At the end of that pier, and on the top of that pier is OFFSHORE. A rooftop bar and restaurant that is both enormous in its indoor and outdoor space but also in its views of Lake Michigan and the skyline of Chicago.</p>
+<p>Some branding projects come to the table already full of concept, design and significance. Offshore is one of those projects. The key here is knowing when to let those elements shine while the branding and identity play an important but more supportive role. Given the location of the restaurant the word mark sits on the end of our pier icon creating a logo that can be as succinct or horizontally long as it wishes. This allowed for some fun signage experimentation while providing a functional, simple logo. The space is stunning. The views more so. This identity puts a strong but simple stamp on this iconic location.</p>
 {{< /project-description >}}
 
 <div class="project-item">
