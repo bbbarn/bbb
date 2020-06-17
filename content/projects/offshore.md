@@ -8,7 +8,7 @@ draft = true
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
-subtitle = "CHICAGO'S HISTORIC NAVY PIER GETS A ROOF TOP EXPERIENCE"
+subtitle = "CHICAGO'S NAVY PIER GETS A ROOF TOP EXPERIENCE"
 title = "OFFSHORE"
 type = ""
 
@@ -19,7 +19,7 @@ type = ""
 {{< /project-description >}}
 
 <div class="project-item">
-{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-offshore-01.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-offshore-01.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-offshore-02.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net//images/project-offshore-03.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-offshore-04.jpg" >}}
