@@ -4,7 +4,6 @@ cardImageSlug = "offshore"
 categories = ["Signage", "Brand Identity"]
 date = 2020-06-16T04:00:00Z
 default = ""
-draft = true
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""

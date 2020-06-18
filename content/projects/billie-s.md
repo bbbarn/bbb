@@ -4,7 +4,6 @@ cardImageSlug = "billies"
 categories = ["Signage", "Brand Identity"]
 date = 2020-06-15T04:00:00Z
 default = ""
-draft = true
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
