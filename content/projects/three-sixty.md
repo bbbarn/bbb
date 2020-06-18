@@ -4,7 +4,6 @@ cardImageSlug = "threesickty"
 categories = ["Brand Identity", "Signage"]
 date = 2020-05-23T04:00:00Z
 default = ""
-draft = true
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
