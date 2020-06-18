@@ -14,8 +14,8 @@ type = ""
 
 +++
 {{< project-description >}}
-<p>NECTARINE GROVE CALLS ITSELF A “LIFESTYLE RESTAURANT” because they understand they know a lot of their customer base who seek out 100% gluten-free, organic meals live that life day-in and day-out. While some people might find those sort of markets/restaurants unapproachable we wanted to create a brand experience that was fun, welcoming and light.</p>
-<p>They already arrived at the name Nectarine Grove and to start things off nectarine’s already bring their own certain “cheeky” charm. It was unavoidable! So we designed our little nectarine lady with leaf hair, sitting in the buff looking off into the distance. The tagline “nothing to hide” became the PERFECT fit. All organic ingredients, locally sourced, no refined sugars, no soy, no corn, no processed ingredients… they literally have nothing to hide. All in a charming market with fun to-go packaging and branded materials making shopping here a lifestyle statement for all.</p>
+<p>OPENED IN 2007, TAP IS ATLANTA’S FIRST GASTROPUB. While it serves seasonally driven, innovative comfort food, it is named for the restaurant’s extensive draft beer and barrel wine selection which rests in a glass chamber floating above the bar.</p>
+<p>The collateral designed for the restaurant encapsulates the environment of a great community pub by being conversation pieces unto themselves. The menu, for example, serves as a tour guide more than a menu and it is something you might want to keep around since it contains a Beer Flavor Wheel on the back. Coasters offer remedial trivia that could keep a lull in conversation from happening or can help solve a bar bet. Each element engages the patrons and creates a bond between establishment and customer. From the creation of the logo to the small nuances that exist inside and out, this carefully crafted brand has made a strong impact on Peachtree Street.</p>
 {{< /project-description >}}
 
 <div class="project-item">
