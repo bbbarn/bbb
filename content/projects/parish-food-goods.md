@@ -30,8 +30,8 @@ type = ""
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-09.jpg" >}}
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-10.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-11.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-12.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-13.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-12.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-13.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-14.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-15.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-16.jpg" >}}
