@@ -598,3 +598,21 @@
 		}
 	}
 }
+
+#smokecontainer, .navbar-brand-holder {
+  position: relative;
+}
+.navbar-brand-holder canvas {
+  position: absolute;
+//  left: 500px;
+//  bottom: 18px;
+  left: 331px;
+  top: -66px;
+//  border: 1px black solid;
+}
+canvas {
+}
+
+#smoke-background {
+  display: none;
+}

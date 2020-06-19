@@ -826,3 +826,15 @@ function initStickyScrollBlock() {
         });
     };
  }(jQuery));
+
+ $(document).ready(function(){
+     init();
+     $("#smoke").css("left", 220)
+     $("#smoke").css("top", -340)
+     $("#smoke").show()
+     // var easter_egg = new Konami(function() { ; });
+     // $("hr.main").width($(window).width() - 30)
+     // $(window).on('resize', function(){
+     //   $("hr.main").width($(window).width() - 30)
+     // })
+ });
