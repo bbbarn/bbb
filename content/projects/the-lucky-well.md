@@ -10,6 +10,7 @@ projectPageSummary = ""
 subtitle = "Barbecue in Ambler"
 title = "The Lucky Well"
 type = ""
+weight = 498
 
 +++
 {{< project-description >}}

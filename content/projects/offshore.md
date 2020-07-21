@@ -10,6 +10,7 @@ projectPageSummary = ""
 subtitle = "CHICAGO’S NAVY PIER GETS A ROOF TOP EXPERIENCE"
 title = "OFFSHORE"
 type = ""
+weight = 497
 
 +++
 {{< project-description >}}

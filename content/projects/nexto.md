@@ -10,6 +10,7 @@ projectPageSummary = ""
 subtitle = "RAMEN IN A METAL SHED"
 title = "NEXTO"
 type = ""
+weight = 496
 
 +++
 {{< project-description >}}

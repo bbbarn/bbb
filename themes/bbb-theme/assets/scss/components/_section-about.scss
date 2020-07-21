@@ -41,3 +41,16 @@
 		letter-spacing: 0.03em;
 	}
 }
+
+
+body {
+  .about-page {
+    .section-cards {
+      .card-text {
+        p {
+          line-height: 50em !important;
+        }
+      }
+    }
+  }
+}

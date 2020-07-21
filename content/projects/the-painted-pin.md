@@ -10,4 +10,5 @@ categories: [branding]
 homepageSummary: "The fast growing iconic destination for a redefining of what chicken and egg sandwiches should be."
 projectPageSummary: ""
 cardImageSlug: "paintedpin"
+weight: 488
 ---

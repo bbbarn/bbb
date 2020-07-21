@@ -12,6 +12,7 @@ homepageSummary: "The fast growing iconic destination for a redefining of what c
 projectPageSummary: ""
 cardImageSlug: "crack"
 heroImageSlug: "crack"
+weight: 486
 ---
 
 {{< project-description >}}

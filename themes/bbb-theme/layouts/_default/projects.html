@@ -7,10 +7,14 @@
 				<section class="section-cards section-cards-color section-fix">
 					<div class="container">
 						<div class="row">
-			        {{- range (.Paginate .Data.Pages).Pages -}}
+			        {{- range (.Paginate .Data.Pages).Pages.ByWeight -}}
 								{{ .Render "card" }}
 							{{ end }}
 						</div>
 					</div>
 				</section>
+
 {{ end }}
+
+
+

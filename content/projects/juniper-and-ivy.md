@@ -11,5 +11,5 @@ homepageSummary: 'A restaurant that set out and achieved redefining San Diego cu
   Now setting its sights on bigger targets. '
 projectPageSummary: ''
 cardImageSlug: juniper
-
+weight: 491
 ---
