@@ -9,4 +9,5 @@ default: {{ .Date }}
 categories: [branding]
 homepageSummary: ""
 projectPageSummary: ""
+weight: 0
 ---
