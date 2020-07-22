@@ -10,7 +10,7 @@ projectPageSummary = ""
 subtitle = "A GLUTEN-FREE LIFESTYLE RESTAURANT IN LEUCADIA, CA"
 title = "NECTARINE GROVE"
 type = ""
-weight = 7
+weight = 486
 
 +++
 {{< project-description >}}
