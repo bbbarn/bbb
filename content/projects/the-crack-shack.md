@@ -16,7 +16,7 @@ homepageSummary: The fast growing iconic destination for a redefining of what ch
 projectPageSummary: ''
 cardImageSlug: crack
 heroImageSlug: crack
-weight: 1
+weight: 480
 
 ---
 {{< project-description >}}
