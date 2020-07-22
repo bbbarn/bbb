@@ -10,7 +10,8 @@ projectPageSummary = ""
 subtitle = "REBRAND OF A MAIN STREET STAPLE"
 title = "BILLIE'S"
 type = ""
-weight = 492
+weight = 5
+
 +++
 {{< project-description >}}
 <p>A FIRE WAS ALMOST THE END FOR THIS TOWN FAVORITE TAVERN but thankfully Billie's Saloon in Port Jefferson, NY was bought back to life by its original owner. Part of fixing the damage from the fire and refurbishing the restaurant was to rebrand it from being a bit of a dive bar to something a bit more high-end with a touch of grit-charm. </p>
