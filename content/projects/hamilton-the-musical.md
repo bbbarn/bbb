@@ -12,7 +12,7 @@ homepageSummary: It really is a good show. The souvenir book is a mere glimpse i
 projectPageSummary: ''
 cardImageSlug: hamilton
 subtitle: ''
-weight: 2
+weight: 499
 
 ---
 {{< project-description >}}
