@@ -13,6 +13,7 @@ projectPageSummary: ''
 cardImageSlug: hamilton
 subtitle: ''
 weight: 499
+body_type: "work-page"
 
 ---
 {{< project-description >}}

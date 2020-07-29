@@ -131,6 +131,10 @@
   }
 }
 
+.navbar-toggler-x {
+  background-image: $navbar-toggler-x-img;
+}
+
 // Keep as a separate element so folks can easily override it with another icon
 // or image file as needed.
 .navbar-toggler-icon {

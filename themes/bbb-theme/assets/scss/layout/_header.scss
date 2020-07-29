@@ -56,7 +56,15 @@
 	
 }
 
-
+.project-page {
+  .navbar-nav {
+    @include media('≤tablet') {
+      background-color: #091f36;
+      color: #e1ddbd;
+    }
+    
+  }
+}
 .about-page {
   .navbar-nav {
     @include media('≤tablet') {
@@ -266,6 +274,10 @@
 
 			padding: 0px;
         .front-cover {
+    		 	@include media('≤tablet') {
+    		 		display: none;
+    		 	}
+          
           display: flex;
           flex-direction: row;
           position: relative;

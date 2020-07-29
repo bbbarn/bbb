@@ -13,6 +13,6 @@ projectPageSummary: ''
 cardImageSlug: waterkeeper
 weight: 493
 subtitle: ''
-
+body_type: "work-page"
 ---
 testing 123

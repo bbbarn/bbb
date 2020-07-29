@@ -6,13 +6,13 @@
 	font-family: 'ohno_blazeface12_point';
 	font-size: rem-calc(14);
 	padding-bottom: rem-calc(33);
-
 	.navbar-nav {
 		max-width: none;
 		padding-top: 0;
 		padding-bottom: 0;
 		letter-spacing: .1em;
   	color: $blue;
+    background-color: $body-bg;
 
 		@include media('≥tablet') {
 			display: flex;

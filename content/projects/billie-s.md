@@ -11,6 +11,8 @@ subtitle = "REBRAND OF A MAIN STREET STAPLE"
 title = "BILLIE'S"
 type = ""
 weight = 5
+body_type = "work-page"
+
 
 +++
 {{< project-description >}}

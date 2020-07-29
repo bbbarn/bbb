@@ -11,4 +11,5 @@ homepageSummary: "The fast growing iconic destination for a redefining of what c
 projectPageSummary: ""
 cardImageSlug: "paintedpin"
 weight: 488
+body_type: "work-page"
 ---

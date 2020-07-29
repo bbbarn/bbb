@@ -10,4 +10,5 @@ categories: [branding]
 homepageSummary: ""
 projectPageSummary: ""
 weight: 0
+body_type: "work-page"
 ---

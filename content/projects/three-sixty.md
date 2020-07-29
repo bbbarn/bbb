@@ -11,6 +11,7 @@ subtitle = "THE 360° OF ST. LOUIS MISSOURI"
 title = "THREE SIXTY"
 type = ""
 weight = 495
+body_type = "work-page"
 
 +++
 {{< project-description >}}

@@ -11,7 +11,7 @@ subtitle = "Barbecue in Ambler"
 title = "The Lucky Well"
 type = ""
 weight = 498
-
+body_type = "work-page"
 +++
 {{< project-description >}}
 <p>The Lucky Well, helmed by chef Chad Rosenthal, brings his stylized version of authentic BBQ to the northeast and gives people a reason to drive north of Philly for a special dining experience. Located in Ambler, Pennsylvania, a cozy and attractive town, The Lucky Well sits right on Main St. as a perfect compliment to its shopping and cultural neighbors. BoyBurnsBarn was asked to create a brand that blends the comfort food aura of BBQ with a more fine dining experience that still feels casual. </p>

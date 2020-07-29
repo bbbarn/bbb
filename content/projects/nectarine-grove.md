@@ -11,7 +11,7 @@ subtitle = "A GLUTEN-FREE LIFESTYLE RESTAURANT IN LEUCADIA, CA"
 title = "NECTARINE GROVE"
 type = ""
 weight = 496
-
+body_type = "work-page"
 +++
 {{< project-description >}}
 <p>NECTARINE GROVE CALLS ITSELF A “LIFESTYLE RESTAURANT” because they understand they know a lot of their customer base who seek out 100% gluten-free, organic meals live that life day-in and day-out. While some people might find those sort of markets/restaurants unapproachable we wanted to create a brand experience that was fun, welcoming and light.</p>
