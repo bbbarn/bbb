@@ -58,13 +58,28 @@
 
 
 .about-page {
+  .navbar-nav {
+    @include media('≤tablet') {
+      background-color: #091f36;
+      color: #e1ddbd;
+    }
+    
+  }
 	#header,
 	.navbar-collapse {
-		background-color: #a6cdd3;
+		background-color: #a6cdd3;    
 	}
 }
 
 .contact-page {
+
+  .navbar-nav {
+    @include media('≤tablet') {
+      background-color: #091f36;
+      color: #e1ddbd;
+    }
+  }
+  
 	#header,
 	.navbar-collapse {
 		background-color: #b6f181;
@@ -72,7 +87,14 @@
 }
 
 .work-page {
-	#header,
+  .navbar-nav {
+    @include media('≤tablet') {
+      background-color: #091f36;
+      color: #e1ddbd;
+    }
+  }
+  
+  #header,
 	.navbar-collapse {
 		background-color: $yellow;
 	}
@@ -499,6 +521,9 @@
 		}
     
     &.nav-info {
+      @include media('≥tablet') {
+        display: none ;
+      }
       &.first{
           margin-top:80px;
         }
