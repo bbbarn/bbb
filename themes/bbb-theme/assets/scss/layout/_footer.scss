@@ -27,7 +27,9 @@
 
 		li {
 			padding: 0 rem-calc(36);
-
+      @include media('≤tablet') {
+        font-size: 2.2rem;
+      }
 			+ li {
 				margin-top: rem-calc(15);
 
@@ -48,6 +50,11 @@
 	.container {
 		padding: 0 13px;
 	}
+  .hide-on-mobile {
+    @include media('≤tablet') {
+      display: none;
+    }
+  }
 
 	.text-holder {
 		position: relative;
@@ -57,6 +64,9 @@
 		border-bottom: 2px solid #0a2341;
 		// border-top: 2px solid #0a2341;
 		font-size: rem-calc(20);
+		@include media('≤tablet') {
+			font-size: 0.75em; 
+		}
 
 		.text {
 			align-items: center;
@@ -172,6 +182,9 @@
 		margin-bottom: 10px;
 		font-size: rem-calc(14);
 		letter-spacing: 0.15em;
+    @include media('≤tablet') {
+      font-size: 0.7rem;
+    }
 	}
 
 	.list {

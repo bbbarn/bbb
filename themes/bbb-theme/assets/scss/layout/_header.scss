@@ -545,8 +545,8 @@
       
   	  font-family: $vulf-mono-font;
       font-size: .8em;
+      
     }
-
 		&.active {
 			a {
 				&:after {
@@ -579,9 +579,16 @@
 		}
 	}
 
+  @include media('≤tablet') {
+    a[href^=tel] {
+      color: #e1ddbd;
+    }
+  }
 	a {
 		position: relative;
 		color: inherit;
+    
+    
 
 		&:after {
 			@include animate(opacity);
@@ -606,26 +613,26 @@
 	}
 }
 
-.navbar-toggler {
-	width: 25px;
-	border: none;
-
-	&:before ,
-	&:after {
-		display: block;
-		content: '';
-		height: 4px;
-		background-color: #173350;
-	}
-
-	span {
-		display: block;
-		width: 100%;
-		height: 4px;
-		background-color: #173350;
-		margin: rem-calc(8) 0;
-	}
-}
+//.navbar-toggler {
+//  width: 25px;
+//  border: none;
+//
+//  &:before ,
+//  &:after {
+//    display: block;
+//    content: '';
+//    height: 4px;
+//    background-color: #173350;
+//  }
+//
+//  span {
+//    display: block;
+//    width: 100%;
+//    height: 4px;
+//    background-color: #173350;
+//    margin: rem-calc(8) 0;
+//  }
+//}
 
 .header-project {
 	.topnavbar-holder {
