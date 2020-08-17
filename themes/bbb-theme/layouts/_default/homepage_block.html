@@ -1,0 +1,17 @@
+							<div class="col-md-4"><a class="card" href="{{ .Params.Link }}">
+									<div class="card-img">
+										<div class="img-black">
+											<div class="bg-stretch"><span data-srcset="https://d1mw1d2me4nxfw.cloudfront.net/fit-in/500x700/filters:autojpg()/filters:grayscale()/card-{{ .Params.cardImageSlug }}.jpg, https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/filters:grayscale()/card-{{ .Params.cardImageSlug }}.jpg 2x"></span><span data-srcset="https://d1mw1d2me4nxfw.cloudfront.net/fit-in/500x700/filters:autojpg()/filters:grayscale()/card-{{ .Params.cardImageSlug }}.jpg" data-media="(min-width: 768px)"></span></div>
+										</div>
+										<div class="img-color">
+											<div class="bg-stretch"><span data-srcset="https://d1mw1d2me4nxfw.cloudfront.net/fit-in/500x700/filters:autojpg()/card-{{ .Params.cardImageSlug }}.jpg, https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/card-{{ .Params.cardImageSlug }}.jpg 2x"></span><span data-srcset="https://d1mw1d2me4nxfw.cloudfront.net/fit-in/500x700/filters:autojpg()/card-{{ .Params.cardImageSlug }}.jpg" data-media="(min-width: 768px)"></span></div>
+										</div>
+									</div>
+									<div class="card-body">
+										<h3 class="card-title">{{ .Title }}</h3>
+										<div class="card-text">
+											<p>{{ .Params.homepageSummary }}</p>
+										</div><strong class="card-subtitle">{{.Params.subtitle}}</strong>
+									</div>
+									</a>
+							</div>
