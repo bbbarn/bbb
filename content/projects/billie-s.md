@@ -12,7 +12,6 @@ projectPageSummary = ""
 subtitle = "REBRAND OF A MAIN STREET STAPLE"
 title = "BILLIE'S"
 type = "project"
-weight = nil
 workOrder = 5
 
 +++
