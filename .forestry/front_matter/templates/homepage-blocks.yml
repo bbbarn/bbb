@@ -36,5 +36,12 @@ fields:
     max: 
     step: 
   label: Order
+- name: categories
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Categories
 pages:
 - blocks/the-grits-amp-grid-podcast.md
