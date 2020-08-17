@@ -1,6 +1,6 @@
 +++
 cardImageSlug = "nyu-tisch"
-frontPageOrder = 2
+frontPageOrder = 1
 homepageSummary = "Branding and collateral for the annual, dari I say, biggest Gala event in school history honoring the dean herself."
 imageLink = ""
 link = "http://google.com"
