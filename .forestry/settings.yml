@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: blocks
+  label: Homepage Blocks
+  create: documents
+  match: "**/*"
+  templates:
+  - homepage-blocks
 - type: heading
   label: Content
 - type: document
