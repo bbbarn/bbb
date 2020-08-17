@@ -13,7 +13,7 @@ heroImageSlug: crack
 header_message: |-
   Ever feel like you send an email or leave a message and it gets launched into space never
   to be seen again? That’s not us. If we don’t reply send for help!
-header_blurb: BURNING WOOD DOES SMELL NICE
+header_blurb: BURNING WOOD SMELLS NICE
 
 ---
 what

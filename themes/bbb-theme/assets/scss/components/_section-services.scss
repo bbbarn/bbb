@@ -43,7 +43,7 @@
     	display: flex;
     	align-items: center;
     	border: 3px dashed #173350;
-    	padding: 0 rem-calc(10);
+    	padding: rem-calc(30) rem-calc(30);
     }
 	}
 
@@ -52,7 +52,7 @@
 		font-family: 'ohno_blazeface12_point';
 		font-size: rem-calc(44);
 		color: #173350;
-		letter-spacing: -.011em;
+		letter-spacing: 0.1em;
 		line-height: 1;
 		text-align: center;
 		margin-bottom: rem-calc(25);
@@ -160,9 +160,9 @@
 
 		.title {
 			font-family: 'carnaby_streetclean';
-			font-size: 1.75rem;
+			font-size: 2.0125rem;
     	margin-bottom: 1.5625rem;
-    	letter-spacing: -0.009em;
+    	letter-spacing: 0.02em;
 		}
 
 		.list-holder {
@@ -176,11 +176,11 @@
 		}
 
 		.list {
-			font-size: rem-calc(20);
+			font-size: rem-calc(18);
 			font-style: italic;
 			font-weight: 700;
 			margin: 0;
-			letter-spacing: -.12em;
+			letter-spacing: 0em;
 		}
 
 		.note {

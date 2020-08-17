@@ -3,7 +3,6 @@
 	padding-bottom: rem-calc(13);
 	font-style: italic;
 	font-size: rem-calc(12);
-
 	@include media('≥tablet') {
 			padding-top: rem-calc(35);
 	padding-bottom: rem-calc(13);
@@ -15,6 +14,8 @@
 
 		ol {
 			padding-bottom: 0;
+      margin-left: auto;
+      margin-right: auto;
 
 			li {
 				&.active {

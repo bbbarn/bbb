@@ -8,8 +8,8 @@
 	padding-bottom: rem-calc(33);
 	.navbar-nav {
 		max-width: none;
-		padding-top: 0;
-		padding-bottom: 0;
+		padding-top: 25px;
+		padding-bottom: 25px;
 		letter-spacing: .1em;
   	color: $blue;
     background-color: $body-bg;
@@ -27,6 +27,7 @@
 
 		li {
 			padding: 0 rem-calc(36);
+      font-size: 2.2rem;
       @include media('≤tablet') {
         font-size: 2.2rem;
       }
@@ -43,7 +44,7 @@
 
 .footer-main {
 	font-family: $vulf-mono-font;
-	font-weight: 700;
+	font-weight: normal;
 	font-style: italic;
 	padding-bottom: rem-calc(13);
 
@@ -63,7 +64,7 @@
 		margin: 0 (-$grid-gutter-width/2);
 		border-bottom: 2px solid #0a2341;
 		// border-top: 2px solid #0a2341;
-		font-size: rem-calc(20);
+		font-size: rem-calc(15);
 		@include media('≤tablet') {
 			font-size: 0.75em; 
 		}
@@ -115,6 +116,7 @@
 	.descr-block {
 	  max-width: 80%;
     text-align: center;
+
   }
 }
 
@@ -133,13 +135,12 @@
 	.content-info {
 		max-width: 100%;
 		flex: 0 0 100%;
-		margin-left: auto;
-		margin-right: auto;
+		margin-left: 27px;
+		margin-right: 27px;
 		padding-top: rem-calc(6);
 		border-bottom: 2px solid #173350;
 		padding-bottom: rem-calc(25);
 		margin-bottom: rem-calc(15);
-
 		@include media('≥tablet') {
 			flex: 1 0;
 			border-bottom: 0;
@@ -241,7 +242,7 @@
 		a {
 			display: block;
 			font-family: 'carnaby_streetclean';
-			font-size: rem-calc(11);
+			font-size: rem-calc(15);
 			letter-spacing: .1em;
 			max-width: 61px;
 			margin-left: auto;
@@ -276,6 +277,7 @@
 		    padding: 0 rem-calc(21) 0;
 		    border-left: 0;
 		    order: 0;
+        margin-left: 20px;
 	    }
 
 	    a {
@@ -315,6 +317,7 @@
     	max-width: rem-calc(80);
     	flex: 0 0 rem-calc(80);
     	padding: 0 rem-calc(10);
+      margin-right: 20px;
     }
 
 		a {
@@ -326,8 +329,8 @@
 		}
 
 		i {
-			width: rem-calc(14);
-			height: rem-calc(13);
+			width: rem-calc(18);
+			height: rem-calc(17);
 			background-image: url('images/hashtag-coral.png');
 			background-repeat: no-repeat;
 		}

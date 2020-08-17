@@ -90,7 +90,7 @@
   
 	#header,
 	.navbar-collapse {
-		background-color: #b6f181;
+		background-color: #a9c66b;
 	}
 }
 
@@ -202,12 +202,12 @@
 	font-family: $vulf-mono-font;
 	max-width: 105px;
 	flex: 0 0 105px;
-	font-weight: 800;
+	font-weight: 700;
 	font-size: rem-calc(14);
 	color: #173350;
 	text-align: center;
 	line-height: 1.2;
-	letter-spacing: -.09em;
+	letter-spacing: 0em;
 	padding: rem-calc(16) rem-calc(5) 0 rem-calc(5);
 
 	@include media('≥tablet') {
@@ -303,11 +303,11 @@
 						text-decoration: none;
 					}
 					h2 {
-						font-size: rem-calc(40);
+						font-size: rem-calc(45);
 						margin:0;
 						padding: 0 0 0 10px;
 						color: $coral;
-            
+            letter-spacing: 0.055em;;
             
 					}
 				}
