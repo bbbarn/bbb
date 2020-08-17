@@ -1,18 +1,19 @@
 +++
 author = ""
+body_type = "work-page"
 cardImageSlug = "billies"
 categories = ["Signage", "Brand Identity"]
 date = 2020-06-15T04:00:00Z
 default = ""
+frontPageOrder = 1
 hero = ""
-homepageSummary = ""
+homepageSummary = "This is where the description of this project will go."
 projectPageSummary = ""
 subtitle = "REBRAND OF A MAIN STREET STAPLE"
 title = "BILLIE'S"
 type = "project"
+weight = nil
 workOrder = 5
-body_type = "work-page"
-frontPageOrder = 1
 
 +++
 {{< project-description >}}

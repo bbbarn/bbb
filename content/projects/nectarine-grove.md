@@ -1,18 +1,19 @@
 +++
 author = ""
+body_type = "work-page"
 cardImageSlug = "nectarine"
 categories = ["Signage", "Brand Identity"]
 date = 2020-06-15T04:00:00Z
 default = ""
+frontPageOrder = 4
 hero = ""
-homepageSummary = ""
+homepageSummary = "It was the best of times"
 projectPageSummary = ""
 subtitle = "A GLUTEN-FREE LIFESTYLE RESTAURANT IN LEUCADIA, CA"
 title = "NECTARINE GROVE"
 type = "project"
+weight = nil
 workOrder = 2
-body_type = "work-page"
-frontPageOrder = 4
 
 +++
 {{< project-description >}}
