@@ -16,8 +16,9 @@ homepageSummary: The fast growing iconic destination for a redefining of what ch
 projectPageSummary: ''
 cardImageSlug: crack
 heroImageSlug: crack
-weight: 480
+workOrder: 2
 body_type: "work-page"
+frontPageOrder: 7
 ---
 {{< project-description >}}
 <p>WHEN YOU GET A PHONE CALL FROM A CLIENT ASKING YOU TO WORK ON THEIR NEW PROJECT CALLED “THE CRACK SHACK” It’s a bit hard not to gasp. Now that it’s all said and done there couldn’t be a more perfect name for this in your face yet elegant all day chicken and eggs concept in San Diego, California. Located in what originally was, for lack of a better term, a metal “shack” on the back lot of an existing property owned by Michael Rosen of Juniper and Ivy, The Crack Shack is the place we all wanted in our lives but maybe didn’t know we needed.</p>

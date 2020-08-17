@@ -9,10 +9,10 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "THE 360° OF ST. LOUIS MISSOURI"
 title = "THREE SIXTY"
-type = ""
-weight = 495
+type = "project"
+workOrder = 495
 body_type = "work-page"
-
+frontPageOrder = 6
 +++
 {{< project-description >}}
 <p>THREE SIXTY HAD ITS GRAND OPENING IN THE SUMMER OF 2011. It is St. Louis's most unique drinking and dining venue. Sitting on the roof of the 26th floor of the Hilton hotel, it overlooks the Gateway Arch, Busch Field and the Mississippi River. As the name suggests; 360° views of St. Louis.</p>

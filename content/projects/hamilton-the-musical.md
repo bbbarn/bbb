@@ -1,19 +1,20 @@
 ---
-title: Hamilton The Musical
-date: 2019-11-25T18:43:38.000+00:00
-type: project
-author: ''
-hero: https://source.unsplash.com/random
-default: 2019-11-25T18:43:38.000+00:00
+author: John Turner
+cardImageSlug: hamilton
 categories:
 - branding
+date: 2019-11-25T18:43:38.000+00:00
+default: 2019-11-25T18:43:38.000+00:00
+hero: https://source.unsplash.com/random
 homepageSummary: It really is a good show. The souvenir book is a mere glimpse into
   the genius of this American musical.
 projectPageSummary: ''
-cardImageSlug: hamilton
-subtitle: ''
-weight: 499
+subtitle: "i'm a subtitle"
+title: Hamilton The Musical
+type: project
+workOrder: 1
 body_type: "work-page"
+frontPageOrder: 2
 
 ---
 {{< project-description >}}

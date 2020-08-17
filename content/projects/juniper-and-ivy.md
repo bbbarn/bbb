@@ -1,7 +1,7 @@
 ---
 title: Juniper And Ivy
 date: 2019-11-25T18:43:38.000+00:00
-type: project
+type: "project"
 author: ''
 hero: https://source.unsplash.com/random
 default: 2019-11-25T18:43:38.000+00:00
@@ -11,6 +11,7 @@ homepageSummary: 'A restaurant that set out and achieved redefining San Diego cu
   Now setting its sights on bigger targets. '
 projectPageSummary: ''
 cardImageSlug: juniper
-weight: 491
+workOrder: 4
+frontPageOrder: 3
 body_type: "work-page"
 ---

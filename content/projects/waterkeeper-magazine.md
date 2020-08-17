@@ -11,8 +11,9 @@ homepageSummary: An international non-profit dedicated to protecting the water w
   of the world.
 projectPageSummary: ''
 cardImageSlug: waterkeeper
-weight: 493
+workOrder: 493
 subtitle: ''
 body_type: "work-page"
+frontPageOrder: 12
 ---
 testing 123

@@ -9,8 +9,9 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "RAMEN IN A METAL SHED"
 title = "NEXTO"
-type = ""
-weight = 496
+type = "project"
+workOrder = 496
+frontPageOrder = 2
 body_type = "work-page"
 +++
 {{< project-description >}}

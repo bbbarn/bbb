@@ -9,10 +9,10 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "REBRAND OF A MAIN STREET STAPLE"
 title = "BILLIE'S"
-type = ""
-weight = 5
+type = "project"
+workOrder = 5
 body_type = "work-page"
-
+frontPageOrder = 1
 
 +++
 {{< project-description >}}

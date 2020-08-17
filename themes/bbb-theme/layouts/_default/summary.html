@@ -8,7 +8,7 @@
           </div>
       </div>
       <div class="card-body">
-          <h3 class="card-title">{{ .Title }}</h3>
+          <h3 class="card-title">{{ .Title }} <!-- - {{ .Param "frontPageOrder" }} --></h3>
           <div class="card-text">
               <p>{{ .Params.homepageSummary }}</p>
           </div><strong class="card-subtitle">{{ delimit (apply .Params.Categories "title" ".") ", " }}</strong>

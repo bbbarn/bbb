@@ -9,9 +9,10 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "CHICAGO’S NAVY PIER GETS A ROOF TOP EXPERIENCE"
 title = "OFFSHORE"
-type = ""
-weight = 497
+type = "project"
+workOrder = 497
 body_type = "work-page"
+frontPageOrder = 5
 +++
 {{< project-description >}}
 <p>CHICAGO’S HISTORIC NAVY PIER is an iconic piece of Chicago’s water front. It played a significant role in Chicago’s existence through World Fair’s and World War’s and is now a communal destination housing numerous dining and cultural experiences. At the end of that pier, and on the top of that pier is OFFSHORE. A rooftop bar and restaurant that is both enormous in its indoor and outdoor space but also in its views of Lake Michigan and the skyline of Chicago.</p>
