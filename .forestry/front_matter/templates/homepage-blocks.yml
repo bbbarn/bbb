@@ -1,4 +1,28 @@
 ---
 label: Homepage Blocks
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: link
+  type: text
+  config:
+    required: false
+  label: Link
+- name: imageLink
+  type: text
+  config:
+    required: false
+  label: Image Link
