@@ -12,6 +12,7 @@ projectPageSummary = ""
 subtitle = "A GLUTEN-FREE LIFESTYLE RESTAURANT IN LEUCADIA, CA"
 title = "NECTARINE GROVE"
 type = "project"
+weight = 1
 workOrder = 2
 
 +++
