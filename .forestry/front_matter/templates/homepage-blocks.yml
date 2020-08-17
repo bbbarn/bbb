@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: Title
-- name: description
+- name: homepageSummary
   type: textarea
   default: ''
   config:
@@ -21,10 +21,20 @@ fields:
   config:
     required: false
   label: Link
-- name: imageLink
+- name: cardImageSlug
   type: text
   config:
     required: false
-  label: Image Link
+  label: Card Image Slug
+- name: frontPageOrder
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Order
 pages:
 - blocks/the-grits-amp-grid-podcast.md
