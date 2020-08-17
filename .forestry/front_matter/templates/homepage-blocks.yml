@@ -26,3 +26,5 @@ fields:
   config:
     required: false
   label: Image Link
+pages:
+- blocks/the-grits-amp-grid-podcast.md
