@@ -33,7 +33,7 @@ sections:
   - about-page
   - project
 - type: directory
-  path: blocks
+  path: content/blocks
   label: Homepage Blocks
   create: documents
   match: "**/*"

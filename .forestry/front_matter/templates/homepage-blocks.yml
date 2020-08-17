@@ -42,5 +42,3 @@ fields:
     max: 
     step: 
   label: Order
-pages:
-- blocks/the-grits-amp-grid-podcast.md
