@@ -46,6 +46,26 @@ fields:
     max: 
     step: 
   label: Weight to sort posts by
+- name: frontPageOrder
+  type: number
+  label: Front Page Order
+  description: This is the order of the pages on the homepage.  Sorted small to big.
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: workOrder
+  type: number
+  label: Work Order
+  description: 'The listing order for the work page. '
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/projects/billie-s.md
 - content/projects/hamilton-the-musical.md
