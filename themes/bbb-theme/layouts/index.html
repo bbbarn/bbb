@@ -51,6 +51,16 @@
 						<div class="services-logo"><img src="images/services-logo.png" width="125" height="86" alt="image description"></div>
 					</div>
 				</section>
+
+				<section class="section-cards">
+					<div class="container">
+						<div class="row">
+								{{ range ((first 3 (where .Site.Pages "Section" "blocks")).ByParam "frontPageOrder") }}
+								  	{{ .Render "homepage_block" }}
+								{{ end }}
+						</div>
+					</div>
+				</section>
 				<section class="section-cards">
 					<div class="container">
 						<div class="row">
