@@ -132,16 +132,38 @@
 }
 
   
-  .navbar-toggler-x {
-    background-image: $navbar-toggler-x-img;
+//.navbar-toggler-x {
+//  background-image: $navbar-toggler-x-img;
+//  display: none;
+//  width: 1.5em;
+//  height: 1.5em;
+//  vertical-align: middle;
+//  content: $navbar-toggler-x-img;
+//  background: no-repeat center center;
+//  background-size: 100% 100%;
+//}
+.navbar-toggler-ham {
+  background-image: $navbar-toggler-ham-img;
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  content: $navbar-toggler-x-img;
+  background: no-repeat center center;
+  background-size: 100% 100%;
+}
+
+.navbar-toggler {
+&.collapsed {
+//  .navbar-toggler-x {
+//    display: none;
+//  }
+  .navbar-toggler-ham {
     display: inline-block;
-    width: 1.5em;
-    height: 1.5em;
-    vertical-align: middle;
-    content: $navbar-toggler-x-img;
-    background: no-repeat center center;
-    background-size: 100% 100%;
+    content: $navbar-toggler-ham-img;
   }
+  
+}}
   // Keep as a separate element so folks can easily override it with another icon
 // or image file as needed.
 .navbar-toggler-icon {
