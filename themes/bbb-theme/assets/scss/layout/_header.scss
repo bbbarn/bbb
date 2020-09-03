@@ -682,10 +682,15 @@
 }
 
 canvas {
+  @include media('≤tablet') {
+    display: none;
+  }
 }
 
 #smoke-background {
   display: none;
+  
 }
 
 
+	

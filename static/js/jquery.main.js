@@ -7,12 +7,13 @@ jQuery(function(){
 
 function removeJumbo(){
   jQuery(window).on('scroll', function () {
-    var top = jQuery(window).scrollTop(),
-    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight();
+    var top = jQuery(window).scrollTop();
+    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight(); + 200
     if (divBottom > top) {
       // jQuery('.jumbotron').removeClass('out-of-view');
     } else {
       jQuery('.jumbotron-remove').addClass('out-of-view');
+      window.scrollTo(0, 0);
       initStickyScrollBlock();
     }
   });
@@ -831,10 +832,17 @@ function initStickyScrollBlock() {
      init();
      $("#smoke").css("left", 220)
      $("#smoke").css("top", -340)
-     $("#smoke").show()
+     $("#smoke").show();
      // var easter_egg = new Konami(function() { ; });
      // $("hr.main").width($(window).width() - 30)
-     // $(window).on('resize', function(){
-     //   $("hr.main").width($(window).width() - 30)
-     // })
+     $(window).on('resize', function(){
+       // console.log($(window).width());
+       if (($(window).width() < 780)) {
+         // alert('no');
+         $("#smoke").hide();
+       } else {
+         $("#smoke").show();
+       }
+       
+     })
  });
