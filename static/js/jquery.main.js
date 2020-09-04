@@ -4,16 +4,17 @@ jQuery(function(){
     initAnchors();
     removeJumbo();
 });
-
+console.log(window);
+window.removedJumbo = false;
+console.log("removedJumbo: " + window.removedJumbo);
 function removeJumbo(){
   jQuery(window).on('scroll', function () {
     var top = jQuery(window).scrollTop();
-    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight(); + 200
-    if (divBottom > top) {
-      // jQuery('.jumbotron').removeClass('out-of-view');
-    } else {
+    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight(); + 200;
+    if (divBottom <= top && window.removedJumbo == false) {
       jQuery('.jumbotron-remove').addClass('out-of-view');
       window.scrollTo(0, 0);
+      window.removedJumbo = true;
       initStickyScrollBlock();
     }
   });
