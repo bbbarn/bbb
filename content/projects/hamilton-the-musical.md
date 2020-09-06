@@ -6,25 +6,25 @@ categories:
 date: 2019-11-25T18:43:38.000+00:00
 default: 2019-11-25T18:43:38.000+00:00
 hero: https://source.unsplash.com/random
-homepageSummary: It really is a good show. The souvenir book is a mere glimpse into
-  the genius of this American musical.
+homepageSummary: Design of the souvenir book is a mere glimpse into the genius of
+  this American musical.
 projectPageSummary: ''
-subtitle: "i'm a subtitle"
+subtitle: ''
 title: Hamilton The Musical
 type: project
 workOrder: 1
-body_type: "work-page"
+body_type: work-page
 frontPageOrder: 2
 
 ---
 {{< project-description >}}
-<p>WHEN YOU GET A PHONE CALL FROM A CLIENT ASKING YOU TO WORK ON THEIR NEW PROJECT CALLED “THE CRACK SHACK” It’s a bit hard not to gasp. Now that it’s all said and done there couldn’t be a more perfect name for this in your face yet elegant all day chicken and eggs concept in San Diego, California. Located in what originally was, for lack of a better term, a metal “shack” on the back lot of an existing property owned by Michael Rosen of Juniper and Ivy, The Crack Shack is the place we all wanted in our lives but maybe didn’t know we needed.</p>
-<p>Having worked with Mr. Rosen before, as well as Top Chef All Star Richard Blais, who is the chef behind the menu, we knew that nothing is too out there but everything would still be carefully considered. That combination is the perfect branding mixture for us to really have funner. Starting with such an aggressive name that is both fun to say and hear, we wanted to make sure the branding matched up visually to that tone. We chose the ultra thick heavy, letters of Base to capture the sound of the words while the big round shape of the letters gives it a certain eggy-ness. Not to be missed are the two cracked egg shells found in the negative spaces of the “A’s”</p>
+<p>THERE'S NOT MUCH MORE WE CAN SAY ABOUT HAMILTON THAT HASN'T ALREADY BEEN SAID. One of the greatest shows you’ll ever see / greatest night of your life / game changer / life changer… Yes, to all those things.</p>
+<p>Through our continued collaboration with Creative Goods, we developed the concept and design of the souvenir book sold at the theater. The challenge of this book was how to compress a performance where the musical hip-hop influence are so important when juxtaposed with the visual into a two dimensional book. We chose to double down on the historical visual heritage of the performance while at the same time pushing the language and written words of Lin Manuel front and center. The words share the same visual weight of the imagery in our layout. This gives readers the chance to go back and really take in the depth of the flow, rhyme and weight of what is being spoken. We used vellum overlays to further show how its the words of the show float over what you’re seeing.</p>
 {{< /project-description >}}
 
 <div class="project-item">
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-01.png" >}} 
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-02.jpg" >}} 
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-01.png" >}}
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-02.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-03.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-04.jpg" >}}
 {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-05.jpg" >}}
@@ -32,5 +32,5 @@ frontPageOrder: 2
 {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-07.jpg" >}}
 {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-08.jpg" >}}
 {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-09.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-10.jpg" >}} 
+{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-hamilton-10.jpg" >}}
 </div>
