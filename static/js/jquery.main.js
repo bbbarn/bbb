@@ -10,10 +10,10 @@ console.log("removedJumbo: " + window.removedJumbo);
 function removeJumbo(){
   jQuery(window).on('scroll', function () {
     var top = jQuery(window).scrollTop();
-    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight(); + 200;
+    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight();
     if (divBottom <= top && window.removedJumbo == false) {
       jQuery('.jumbotron-remove').addClass('out-of-view');
-      window.scrollTo(0, 0);
+      window.scrollTo(0, 0);  // fixes bug in safari where we remove jumbotron and whole page jumps
       window.removedJumbo = true;
       initStickyScrollBlock();
     }
