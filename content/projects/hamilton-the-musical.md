@@ -14,7 +14,7 @@ title: Hamilton The Musical
 type: project
 workOrder: 1
 body_type: work-page
-frontPageOrder: '02'
+frontPageOrder: 1
 
 ---
 {{< project-description >}}
