@@ -90,6 +90,12 @@
       margin-top: 20px;
       opacity: 0;
     }
+    @include media("≤768px"){
+  		.card-title {
+  			color: #173350;
+        opacity: 1;
+  		}
+    }
     &:hover {
   		.card-title {
   			color: #173350;
