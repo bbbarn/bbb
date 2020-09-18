@@ -67,6 +67,36 @@ function initStickyScrollBlock() {
   
 }
 
+var isInViewport = function (elem) {
+    var bounding = elem.getBoundingClientRect();
+    return (
+        bounding.top >= 0 &&
+        bounding.left >= 0 &&
+        bounding.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        bounding.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+};
+
+$(document).ready(function(){
+  if( $(window).width() < 1024){
+    
+  images = jQuery('.home .section-cards .img-color');
+  
+    $(window).on('scroll', function(){
+      for (i = 0; i<images.length; i++){
+        img = $(images[i]);
+        if (isInViewport(images[i])){
+          img.css('opacity', 1)
+        }else{
+          img.css('opacity', 0)
+        };
+      }
+    })
+  }
+    
+});
+
+
 /*!
  * SmoothScroll module
  */
