@@ -62,6 +62,10 @@
       background-color: #091f36;
       color: #e1ddbd;
     }
+    @include media('≤768px') {
+      height: 100vh;
+    }
+    
     
   }
 }
@@ -71,6 +75,10 @@
       background-color: #091f36;
       color: #e1ddbd;
     }
+    @include media('≤768px') {
+      height: 100vh;
+    }
+    
     
   }
 	#header,
@@ -86,6 +94,10 @@
       background-color: #091f36;
       color: #e1ddbd;
     }
+    @include media('≤768px') {
+      height: 100vh;
+    }
+    
   }
   
 	#header,
@@ -100,6 +112,10 @@
       background-color: #091f36;
       color: #e1ddbd;
     }
+    @include media('≤768px') {
+      height: 100vh;
+    }
+    
   }
   
   #header,
@@ -328,6 +344,7 @@
               margin-right: 0 !important;
             }
             @include media('≤768px') {
+              height: 100vh;
               margin-right: auto !important;;
             }
             
@@ -476,6 +493,13 @@
     background-color: #091f36;
     color: #e1ddbd;
   }
+  @include media('≤768px') {
+    height: 100vh;
+    &.mr-auto {
+      height: 100vh;
+    }
+  }
+  
   
 }
 
