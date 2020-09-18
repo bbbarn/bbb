@@ -23,7 +23,8 @@
 						<div class="card-heading text-center"><span>SPECIALIZING IN BUT NOT LIMITED TO THE FOLLOWING:</span></div>
 						<div class="card-holder">
 							<div class="row">
-								{{ range ((first 6 ( where .Site.RegularPages "Type" "project")).ByParam "frontPageOrder") }}
+								{{ $all := (first 1000 ( where .Site.RegularPages "Type" "project")).ByParam "frontPageOrder"}}
+								{{ range first 6 ($all) }}
 									{{ .Render "summary" }}
 								{{ end }}
 							</div>
