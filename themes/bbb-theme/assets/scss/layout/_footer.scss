@@ -13,7 +13,7 @@
 		letter-spacing: .1em;
   	color: $blue;
     background-color: $body-bg;
-
+    height: 100px;
 		@include media('≥tablet') {
 			display: flex;
 			flex-direction: row;
