@@ -54,8 +54,15 @@ function initStickyScrollBlock() {
       // return 500;
 		}
 	}
+  console.log('starting sticky')
+  isMobileView = $(window).width() < 1024;
+  console.log($(window).width());
+  if (isMobileView){
+    jQuery('#header').stickyScrollBlock(stickyOpts);
+  } else {
+    jQuery('#header .navbar').stickyScrollBlock(stickyOpts);
+  }
   
-  jQuery('#header .navbar').stickyScrollBlock(stickyOpts);
   jQuery('.header-project .navbar').stickyScrollBlock(stickyOpts);
   
 }
