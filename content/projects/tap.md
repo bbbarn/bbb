@@ -12,7 +12,7 @@ title = "TAP"
 type = "project"
 workOrder = 6
 body_type = "work-page"
-frontPageOrder = 8
+frontPageOrder = 222
 +++
 {{< project-description >}}
 <p>OPENED IN 2007, TAP IS ATLANTA’S FIRST GASTROPUB. While it serves seasonally driven, innovative comfort food, it is named for the restaurant’s extensive draft beer and barrel wine selection which rests in a glass chamber floating above the bar.</p>

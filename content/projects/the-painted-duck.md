@@ -15,7 +15,7 @@ projectPageSummary: ''
 subtitle: UPSCALE DUCK PIN BOWLING AND GAMING
 title: The Painted Duck
 type: project
-workOrder: 4
+workOrder: 5
 body_type: work-page
 frontPageOrder: 20
 

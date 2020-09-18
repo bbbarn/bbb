@@ -12,7 +12,7 @@ title = "WATERKEEPER 20TH"
 type = "project"
 workOrder = 494
 body_type = "work-page"
-frontPageOrder = 10
+frontPageOrder = 23
 +++
 {{< project-description >}}
 <p>Waterkeeper Alliance celebrated their 20th anniversary in 2019. With that came an "anniversary edition" of their logo as well as additional branding and promotional items that helped them feature 20 Water Keepers from around the world in celebration of this milestone event. </p>

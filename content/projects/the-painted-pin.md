@@ -10,7 +10,7 @@ categories: [branding]
 homepageSummary: "The fast growing iconic destination for a redefining of what chicken and egg sandwiches should be."
 projectPageSummary: ""
 cardImageSlug: "paintedpin"
-workOrder: 3
+workOrder: 6
 body_type: "work-page"
 frontPageOrder: 19
 ---

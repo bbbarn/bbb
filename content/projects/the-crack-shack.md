@@ -16,7 +16,7 @@ homepageSummary: The fast growing iconic destination for a redefining of what ch
 projectPageSummary: ''
 cardImageSlug: crack
 heroImageSlug: crack
-workOrder: 2
+workOrder: 3
 body_type: "work-page"
 frontPageOrder: 7
 ---

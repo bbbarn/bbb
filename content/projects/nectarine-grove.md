@@ -5,15 +5,14 @@ cardImageSlug = "nectarine"
 categories = ["Signage", "Brand Identity"]
 date = 2020-06-15T04:00:00Z
 default = ""
-frontPageOrder = 7
+frontPageOrder = 21
 hero = ""
 homepageSummary = "It was the best of times"
 projectPageSummary = ""
 subtitle = "A GLUTEN-FREE LIFESTYLE RESTAURANT IN LEUCADIA, CA"
 title = "NECTARINE GROVE"
 type = "project"
-weight = 1
-workOrder = 2
+workOrder = 7
 
 +++
 {{< project-description >}}
