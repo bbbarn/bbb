@@ -23,6 +23,7 @@
 		font-size: rem-cacl(14);
 		font-weight: 300;
 		line-height: 1.1;
+		text-align: left;
 
 		@include media('≥tablet') {
 			font-size: rem-cacl(16);
