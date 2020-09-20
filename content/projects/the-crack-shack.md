@@ -28,8 +28,8 @@ frontPageOrder: 2
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-02.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-03.jpg">}}
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-04.jpg">}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" "https://d1mw1d2me4nxfw.cloudfront.net/project-crack-05.jpg">}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" "https://d1mw1d2me4nxfw.cloudfront.net/project-crack-06.jpg">}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-05.jpg">}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-06.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-07.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-08.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-09.jpg">}}
@@ -40,9 +40,9 @@ frontPageOrder: 2
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-15.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-16.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-17.jpg">}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" "https://d1mw1d2me4nxfw.cloudfront.net/project-crack-18.jpg">}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" "https://d1mw1d2me4nxfw.cloudfront.net/project-crack-19.jpg">}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" "https://d1mw1d2me4nxfw.cloudfront.net/project-crack-20.jpg">}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-18.jpg">}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-19.jpg">}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-20.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-21.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-22.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-crack-23.jpg">}}
