@@ -48,4 +48,3 @@ workOrder = 0
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-28.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-29.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-30.jpg" >}}
-  
