@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "paintedpin"
-categories = []
+categories = ["Restaurant", "Copywriting", "Signage", "Branding"]
 date = ""
 default = ""
 draft = true
