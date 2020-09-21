@@ -25,7 +25,7 @@ frontPageOrder: 20
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck02.jpg" >}}
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck03.jpg" >}} 
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck04.jpg" >}} 
-{{< figure class=""img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck05.jpg" >}} 
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck05.jpg" >}} 
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck06.jpg" >}} 
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck07.jpg" >}} 
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck08.jpg" >}} 
