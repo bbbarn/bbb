@@ -21,7 +21,7 @@ workOrder = 0
 {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-01.jpg" >}}
 {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-02.jpg" >}}
 {{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-03.jpg" >}}
-{{< figure class="img-wrap with-side-borders" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-04.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-04.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-05.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-06.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-07.jpg" >}}
