@@ -15,7 +15,7 @@ function removeJumbo(){
     if (divBottom <= top && window.removedJumbo == false) {
       jQuery('.jumbotron-remove').addClass('out-of-view');
       isMobileView = $(window).width() < 768;
-      if (!isMobileView){
+      if (!isMobileView && !jQuery('.header-project .navbar')){
         window.scrollTo(0, 0);  // fixes bug in safari where we remove jumbotron and whole page jumps
       }
       window.removedJumbo = true;
