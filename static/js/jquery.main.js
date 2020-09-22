@@ -1,4 +1,5 @@
 jQuery(function(){
+    window.stickies = [];
     initRetinaCover();
     initStickyScrollBlock();
     initAnchors();
@@ -13,7 +14,7 @@ function removeJumbo(){
     divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight();
     if (divBottom <= top && window.removedJumbo == false) {
       jQuery('.jumbotron-remove').addClass('out-of-view');
-      isMobileView = $(window).width() < 1024;
+      isMobileView = $(window).width() < 768;
       if (!isMobileView){
         window.scrollTo(0, 0);  // fixes bug in safari where we remove jumbotron and whole page jumps
       }
@@ -37,6 +38,17 @@ function initRetinaCover() {
 	jQuery('.bg-stretch').retinaCover();
 }
 
+function stickIt(elem, opts){
+  console.log(window.stickies.length);
+  for (i = 0; i < window.stickies.length; i++){
+    console.log('destroying: ' + window.stickies[i])
+    $(window.stickies[i][0]).data("StickyScrollBlock").destroy()
+  }
+  elem.stickyScrollBlock(stickyOpts);
+  window.stickies.push(elem)
+  console.log("after enter" + window.stickies.length)
+}
+
 // initialize fixed blocks on scroll
 function initStickyScrollBlock() {
 	stickyOpts = {
@@ -56,15 +68,27 @@ function initStickyScrollBlock() {
 			});
       return totalHeight;
       // return 500;
-		}
+		},
+    onDestroy: function(){
+      console.log("I'm Destroyed")
+    }
 	}
   console.log('starting sticky')
-  isMobileView = $(window).width() < 1024;
+  isMobileView = $(window).width() < 768;
   console.log($(window).width());
   if (isMobileView){
+    // if (jQuery('#header .navbar').data("StickyScrollBlock")){
+    //   jQuery('#header .navbar').data("StickyScrollBlock").destroy()
+    // }
+
     jQuery('#header').stickyScrollBlock(stickyOpts);
+    // stickIt(jQuery('#header'), stickyOpts)
   } else {
+    // if (jQuery('#header').data("StickyScrollBlock")){
+    //   jQuery('#header').data("StickyScrollBlock").destroy()
+    // }
     jQuery('#header .navbar').stickyScrollBlock(stickyOpts);
+    // stickIt(jQuery('#header .navbar'), stickyOpts)
   }
   
   jQuery('.header-project .navbar').stickyScrollBlock(stickyOpts);
@@ -82,11 +106,15 @@ var isInViewport = function (elem) {
 };
 
 $(document).ready(function(){
-  if( $(window).width() < 1024){
+  
+  window.stickies = [];
+
+  console.log('stickies init' + window.stickies.length)
     
   images = jQuery('.home .section-cards .img-color');
   
     $(window).on('scroll', function(){
+      if( $(window).width() < 768){
       for (i = 0; i<images.length; i++){
         img = $(images[i]);
         if (isInViewport(images[i])){
@@ -95,8 +123,8 @@ $(document).ready(function(){
           img.css('opacity', 0)
         };
       }
-    })
-  }
+    }
+  })
     
 });
 
@@ -874,17 +902,19 @@ $(document).ready(function(){
      init();
      $("#smoke").css("left", 220)
      $("#smoke").css("top", -340)
-     $("#smoke").show();
+     if ($(window).width() > 790){
+       $("#smoke").show();
+     }
      // var easter_egg = new Konami(function() { ; });
      // $("hr.main").width($(window).width() - 30)
      $(window).on('resize', function(){
        // console.log($(window).width());
-       if (($(window).width() < 780)) {
+       if (($(window).width() < 768)) {
          // alert('no');
          $("#smoke").hide();
        } else {
          $("#smoke").show();
        }
-       
+       // initStickyScrollBlock(); 
      })
  });
