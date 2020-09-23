@@ -21,4 +21,4 @@ workOrder = 5
 
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-01.mov">}}
 
-{{< project-description >}} <p>WHEN YOU GET A PHONE CALL FROM A CLIENT ASKING YOU TO WORK ON THEIR NEW PROJECT CALLED “THE CRACK SHACK” it’s a bit hard not to gasp. Now that it’s all said a. </p> {{< /project-description >}}
+<p>WHEN YOU GET A PHONE CALL FROM A CLIENT ASKING YOU TO WORK ON THEIR NEW PROJECT CALLED “THE CRACK SHACK” it’s a bit hard not to gasp. Now that it’s all said a. </p>
