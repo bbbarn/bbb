@@ -20,3 +20,4 @@ workOrder = 5
 <div class="project-item">
 
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-01.mov">}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-02.jpg">}}
