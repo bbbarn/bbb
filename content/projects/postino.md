@@ -1,6 +1,6 @@
 +++
 author = ""
-cardImageSlug = "postino"
+cardImageSlug = "postin0"
 categories = []
 date = ""
 default = ""
