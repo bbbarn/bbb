@@ -25,3 +25,5 @@ workOrder = 5
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-02.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-03.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-04.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-05.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-06.jpg">}}
