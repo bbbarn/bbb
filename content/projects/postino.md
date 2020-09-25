@@ -4,7 +4,6 @@ cardImageSlug = "postin0"
 categories = []
 date = ""
 default = ""
-draft = true
 frontPageOrder = 0
 hero = ""
 homepageSummary = ""
