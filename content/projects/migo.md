@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "migo"
-categories = []
+categories = ["Signage", "Branding"]
 date = ""
 default = ""
 draft = true
