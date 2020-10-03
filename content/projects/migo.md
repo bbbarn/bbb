@@ -4,7 +4,6 @@ cardImageSlug = "migo"
 categories = ["Signage", "Branding"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 0
 hero = ""
 homepageSummary = ""
