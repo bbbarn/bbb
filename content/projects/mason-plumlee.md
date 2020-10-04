@@ -21,3 +21,4 @@ workOrder = 14
 
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-01.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-02.png">}}
+{{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/mason-03.gif">}}
