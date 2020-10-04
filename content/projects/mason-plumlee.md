@@ -19,6 +19,5 @@ workOrder = 14
 
 <div class="project-item">
 
-{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-migo-01.png">}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-migo-02.png">}}
-{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-migo-04.png">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-01.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-02.png">}}
