@@ -88,7 +88,7 @@
     .card-title {
       color: #f18f81;
       margin-top: 20px;
-      opacity: 0;
+      opacity: 1;
     }
     @include media("≤768px"){
   		.card-title {

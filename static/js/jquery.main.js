@@ -11,17 +11,20 @@ console.log("removedJumbo: " + window.removedJumbo);
 function removeJumbo(){
   jQuery(window).on('scroll', function () {
     var top = jQuery(window).scrollTop();
-    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight();
-    if (divBottom <= top && window.removedJumbo == false) {
-      jQuery('.jumbotron-remove').addClass('out-of-view');
-      isMobileView = $(window).width() < 768;
-      if (!isMobileView && !jQuery('.header-project .navbar')){
-        window.scrollTo(0, 0);  // fixes bug in safari where we remove jumbotron and whole page jumps
-      }
-      window.removedJumbo = true;
-      initStickyScrollBlock();  
+	if (jQuery('.jumbotron').length > 0){
+	    divBottom = jQuery('.jumbotron').offset().top + jQuery('.jumbotron').outerHeight();
+	    if (divBottom <= top && window.removedJumbo == false) {
+	      jQuery('.jumbotron-remove').addClass('out-of-view').remove();
+	      isMobileView = $(window).width() < 768;
+	      if (!isMobileView && !jQuery('.header-project .navbar')){
+	        window.scrollTo(0, 0);  // fixes bug in safari where we remove jumbotron and whole page jumps
+	      }
+	      window.removedJumbo = true;
+	      initStickyScrollBlock();  
       
-    }
+	    }
+	}
+	
   });
 }
 
@@ -909,7 +912,13 @@ $(document).ready(function(){
      // $("hr.main").width($(window).width() - 30)
      $(window).on('resize', function(){
        // console.log($(window).width());
-       if (($(window).width() < 768)) {
+	   windowWidth = $(window).width()
+	   console.log(windowWidth)
+	   if ( windowWidth < 1450 && windowWidth > 768) {
+		   $("#smoke").css("left", 220 - (1450 - windowWidth)/2);
+		   console.log('window: ' + windowWidth)
+	   }
+       if (windowWidth < 768) {
          // alert('no');
          $("#smoke").hide();
        } else {
