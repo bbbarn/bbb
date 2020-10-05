@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "mason"
-categories = []
+categories = ["Art Direction", "Website", "Branding"]
 date = ""
 default = ""
 draft = true
@@ -26,3 +26,4 @@ workOrder = 14
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-mason-05.gif">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-06.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-07.jpg">}}
+{{< figure class="img-wrap with-no bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-mason-08.gif">}}
