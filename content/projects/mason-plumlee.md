@@ -4,7 +4,6 @@ cardImageSlug = "mason"
 categories = ["Art Direction", "Website", "Branding"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 223
 hero = ""
 homepageSummary = ""
