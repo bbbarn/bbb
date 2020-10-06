@@ -1,10 +1,10 @@
 +++
-cardImageSlug = "nyu-tisch"
+cardImageSlug = "webby"
 frontPageOrder = 2
-homepageSummary = "Branding and collateral for the annual, dari I say, biggest Gala event in school history honoring the dean herself."
+homepageSummary = "A QUICK TOUR OF THE WEBBY EXPERIENCE BECAUSE IT'S FUN TO REMEMBER"
 imageLink = ""
 link = "http://google.com"
-subtitle = "Branding and Identity"
-title = "TISCH SCHOOL OF THE ARTS / NYU"
+subtitle = "Branding and Website"
+title = "THAT TIME A WEBBY WAS WON"
 
 +++
