@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "merch"
-categories = []
+categories = ["Art Direction", "Illustration", "Branding"]
 date = ""
 default = ""
 draft = true
