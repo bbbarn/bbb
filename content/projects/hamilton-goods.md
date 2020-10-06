@@ -19,4 +19,12 @@ workOrder = 15
 
 <div class="project-item">
 
-{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-01.jpg">}}
+{{< figure class="img-wrap with-no bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-01.jpg">}}
+{{< figure class="img-wrap with-no bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-02.jpg">}}
+{{< figure class="img-wrap with-no bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-03.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-04.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-05.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-06.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-07.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-08.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-09.jpg">}}
