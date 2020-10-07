@@ -20,4 +20,5 @@ workOrder = 226
  {{< /project-description >}}
 
 <div class="project-item">
-{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-parish-01.jpg" >}}
+{{< figure class="img-wrap with-no side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-webby-01.jpg" >}}
+{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-webby-02.jpg" >}}
