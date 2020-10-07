@@ -4,7 +4,6 @@ cardImageSlug = "merch"
 categories = ["Art Direction", "Illustration", "Branding"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 224
 hero = ""
 homepageSummary = ""
