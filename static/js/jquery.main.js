@@ -915,7 +915,7 @@ $(document).ready(function(){
 	 }
 	 
 	 
-	 setInterval(changeImage, 3000)
+	 setInterval(changeImage, 1500)
 	 
 	 
      // initRetinaCover();
