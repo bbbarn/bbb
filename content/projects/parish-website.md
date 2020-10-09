@@ -4,7 +4,6 @@ cardImageSlug = "webby"
 categories = ["Website"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 226
 hero = ""
 homepageSummary = ""
