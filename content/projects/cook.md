@@ -4,7 +4,6 @@ cardImageSlug = "cook"
 categories = []
 date = ""
 default = ""
-draft = true
 frontPageOrder = 5
 hero = ""
 homepageSummary = "An apparel brand inspiring you to travel, conserve and share."
