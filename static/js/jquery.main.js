@@ -1,4 +1,7 @@
 jQuery(function(){
+ jQuery(".bg-stretch").data("srcset", "https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/banner-hamilton.jpg, https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/banner-hamilton.jpg 2x");
+ jQuery('.bg-stretch').retinaCover();
+	 
     window.stickies = [];
     initRetinaCover();
     initStickyScrollBlock();
@@ -903,6 +906,20 @@ $(document).ready(function(){
 
  $(document).ready(function(){
      init();
+	 
+	 images = ['banner-hamilton.jpg', 'banner-img-crack.jpg', 'banner-duck.jpg']
+	 var i = 0
+	 changeImage = function(){
+		 jQuery(".jumbotron-img .bg-stretch").css("background-image", "url('https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/"+ images[i % 3] +"')");
+		 i += 1;
+	 }
+	 
+	 
+	 setInterval(changeImage, 3000)
+	 
+	 
+     // initRetinaCover();
+	 
      $("#smoke").css("left", 220)
      $("#smoke").css("top", -340)
      if ($(window).width() > 790){
