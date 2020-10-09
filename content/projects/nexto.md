@@ -5,14 +5,14 @@ cardImageSlug = "neksto"
 categories = ["Brand Identity", "Signage"]
 date = 2020-05-15T04:00:00Z
 default = ""
-frontPageOrder = 2
+frontPageOrder = 7
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
 subtitle = "RAMEN IN A METAL SHED"
 title = "NEXTO"
 type = "project"
-workOrder = 496
+workOrder = 10
 
 +++
 {{< project-description >}}
