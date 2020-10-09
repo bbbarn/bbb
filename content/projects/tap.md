@@ -1,9 +1,11 @@
 +++
 author = ""
+body_type = "work-page"
 cardImageSlug = "tap"
 categories = ["Signage", "Brand Identity"]
 date = 2020-06-17T04:00:00Z
 default = ""
+frontPageOrder = 709
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
@@ -11,8 +13,7 @@ subtitle = "A GASTRO PUB IN ATLANTA, GA"
 title = "TAP"
 type = "project"
 workOrder = 6
-body_type = "work-page"
-frontPageOrder = 222
+
 +++
 {{< project-description >}}
 <p>OPENED IN 2007, TAP IS ATLANTA’S FIRST GASTROPUB. While it serves seasonally driven, innovative comfort food, it is named for the restaurant’s extensive draft beer and barrel wine selection which rests in a glass chamber floating above the bar.</p>
