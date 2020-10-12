@@ -10,7 +10,7 @@ homepageSummary = "An apparel brand inspiring you to travel, conserve and share.
 projectPageSummary = ""
 subtitle = "A CLOTHING BRAND THAT BELIEVES TRAVEL MAKES US BETTER PEOPLE"
 title = "COOK"
-type = ""
+type = "project"
 workOrder = 3
 
 +++

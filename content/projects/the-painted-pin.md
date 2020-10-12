@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "A BOUTIQUE UPSCALE BOWLING ALLEY"
 title = "THE PAINTED PIN"
-type = ""
+type = "project"
 workOrder = 2
 
 +++

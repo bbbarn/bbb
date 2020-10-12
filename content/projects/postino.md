@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "THE HAPPIEST WINE BAR YOU’VE EVER MET"
 title = "POSTINO"
-type = ""
+type = "project"
 workOrder = 5
 
 +++
