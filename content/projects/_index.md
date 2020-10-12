@@ -8,7 +8,7 @@ contact_info:
   email: info@boyburnsbarn.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
-type: ''
+type: 'project'
 heroImageSlug: "crack"
 header_message: |-
     The following is a collection of the majority of large scale projects we’ve had the pleasure
