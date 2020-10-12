@@ -21,3 +21,4 @@ workOrder = 226
 <div class="project-item">
 <figure class="img-wrap with-bottom-border" ><video src="https://s3.amazonaws.com/bbbarn-images/project-webby-01.mov" loop muted autoplay></video></figure>
 <figure class="img-wrap with-bottom-border" ><video src="https://s3.amazonaws.com/bbbarn-images/project-webby-02.mov" loop muted autoplay></video></figure>
+</div>
