@@ -122,6 +122,16 @@
 	.navbar-collapse {
 		background-color: $yellow;
 	}
+	
+}
+ #navbarSupportedContent
+  
+  	 { 
+     @include media('≤768px') {
+	 	&.show, &.collapsing {
+			background-color: #091f36;
+		}
+	}
 }
 
 .navbar-brand-holder {

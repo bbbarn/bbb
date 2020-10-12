@@ -8,9 +8,7 @@ jQuery(function(){
     initAnchors();
     removeJumbo();
 });
-console.log(window);
 window.removedJumbo = false;
-console.log("removedJumbo: " + window.removedJumbo);
 function removeJumbo(){
   jQuery(window).on('scroll', function () {
     var top = jQuery(window).scrollTop();
@@ -19,7 +17,7 @@ function removeJumbo(){
 	    if (divBottom <= top && window.removedJumbo == false) {
 	      jQuery('.jumbotron-remove').addClass('out-of-view').remove();
 	      isMobileView = $(window).width() < 768;
-	      if (!isMobileView && !jQuery('.header-project .navbar')){
+	      if (!isMobileView && jQuery('.header-project .navbar').length == 0){
 	        window.scrollTo(0, 0);  // fixes bug in safari where we remove jumbotron and whole page jumps
 	      }
 	      window.removedJumbo = true;
@@ -907,15 +905,21 @@ $(document).ready(function(){
  $(document).ready(function(){
      init();
 	 
-	 images = ['banner-hamilton.jpg', 'banner-img-crack.jpg', 'banner-duck.jpg']
+	 images = ["project-hamilton-11.jpg",
+		 	   "banner-duck.jpg",
+	 		   "banner-cook.jpg",
+		 	   "project-billies-16.jpg",
+	 		   "project-neksto-11.jpg",
+	 		   "banner-img-crack.jpg"]
+	 
 	 var i = 0
 	 changeImage = function(){
-		 jQuery(".jumbotron-img .bg-stretch").css("background-image", "url('https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/"+ images[i % 3] +"')");
+		 jQuery(".jumbotron-img .bg-stretch").css("background-image", "url('https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/"+ images[i % images.length] +"')");
 		 i += 1;
 	 }
 	 
 	 
-	 setInterval(changeImage, 1500)
+	 setInterval(changeImage, 1000)
 	 
 	 
      // initRetinaCover();
@@ -930,10 +934,8 @@ $(document).ready(function(){
      $(window).on('resize', function(){
        // console.log($(window).width());
 	   windowWidth = $(window).width()
-	   console.log(windowWidth)
 	   if ( windowWidth < 1450 && windowWidth > 768) {
 		   $("#smoke").css("left", 220 - (1450 - windowWidth)/2);
-		   console.log('window: ' + windowWidth)
 	   }
        if (windowWidth < 768) {
          // alert('no');
