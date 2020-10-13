@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "merch"
-categories = ["Art Direction", "Illustration", "Branding"]
+categories = ["Editorial Design", "Art Direction", "Illustration"]
 date = ""
 default = ""
 frontPageOrder = 224
@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "YOUNG, SCRAPPY, AND HUNGRY"
 title = "HAMILTON GOODS"
-type = ""
+type = "project"
 workOrder = 15
 
 +++
@@ -27,3 +27,5 @@ workOrder = 15
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-07.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-08.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-merch-09.jpg">}}
+  
+</div>
