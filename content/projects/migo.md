@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "migo"
-categories = ["Signage", "Branding"]
+categories = ["Art Direction", "Brand Identity"]
 date = ""
 default = ""
 frontPageOrder = 716
@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "MEDIA AND ENTERTAINMENT DISTRIBUTION COMPANY IN THE PHILIPPINES"
 title = "MIGO"
-type = ""
+type = "project"
 workOrder = 13
 
 +++
@@ -30,3 +30,5 @@ workOrder = 13
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-migo-11.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-migo-12.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-migo-13.png">}}
+  
+</div>
