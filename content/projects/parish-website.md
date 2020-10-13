@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "YOU WON A WHAT-Y?"
 title = "PARISH WEBSITE"
-type = ""
+type = "project"
 workOrder = 226
 
 +++
