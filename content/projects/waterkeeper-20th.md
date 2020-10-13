@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "watertwenty"
-categories = ["Brand Identity", "Signage"]
+categories = ["Art Direction", "Brand Identity", "Signage"]
 date = 2020-06-11T04:00:00Z
 default = ""
 frontPageOrder = 6
