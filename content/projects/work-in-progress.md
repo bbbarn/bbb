@@ -15,7 +15,7 @@ type = "project"
 workOrder = 26
 
 +++
-{{< project-description >}}<p>A SAMPLE VIEW FROM THE FOLLOWING PROJECTS:<p>Alternate Ending Beer Co. in Aberdeen, NJ  /  Le Fantastique Raw Bar in San Francisco, CA  /  Boston Rare Maps catalogue  /  CANVAS Restaurant and Market in Orlando, FL  /  Plough and The Exchange in Lancaster, PA  /  TINI Bakery in Milan, IT {{< /project-description >}}
+{{< project-description >}}<p>A SAMPLE VIEW FROM THE FOLLOWING PROJECTS:<p>Alternate Ending Beer Co. in Aberdeen, NJ<p></p>Le Fantastique Raw Bar in San Francisco, CA<p></p>Boston Rare Maps catalogue<p></p>CANVAS Restaurant and Market in Orlando, FL<p></p>Plough and The Exchange in Lancaster, PA<p></p>TINI Bakery in Milan, IT {{< /project-description >}}
 
 <div class="project-item">
 
