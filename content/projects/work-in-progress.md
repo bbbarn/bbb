@@ -11,7 +11,7 @@ homepageSummary = "wip"
 projectPageSummary = ""
 subtitle = "PROJECTS IN VARIOUS STATES OF COMPLETION AND SOON TO COME"
 title = "WORK IN PROGRESS"
-type = ""
+type = "project"
 workOrder = 26
 
 +++
