@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "matteis"
-categories = []
+categories = ["Website", "Restaurant", "Art Direction", "Brand Identity"]
 date = ""
 default = ""
 frontPageOrder = 717
@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "THE REBRAND OF A HISTORICAL ICON"
 title = "MATTEI’S TAVERN"
-type = ""
+type = "project"
 workOrder = 9
 
 +++
@@ -43,3 +43,5 @@ workOrder = 9
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-matteis-23.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-matteis-24.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-matteis-25.jpg">}}
+  
+</div>
