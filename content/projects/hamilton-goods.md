@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "merch"
-categories = ["Editorial Design", "Art Direction", "Illustration"]
+categories = ["Art Direction", "Illustration"]
 date = ""
 default = ""
 frontPageOrder = 224
