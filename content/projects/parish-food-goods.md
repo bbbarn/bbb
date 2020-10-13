@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "parish"
-categories = ["Signage", "Brand Identity"]
+categories = ["Restaurant", "Signage", "Brand Identity"]
 date = 2020-06-18T04:00:00Z
 default = ""
 frontPageOrder = 706
