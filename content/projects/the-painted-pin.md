@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "paintedpin"
-categories = ["Restaurant", "Copywriting", "Signage", "Branding"]
+categories = ["Website", "Brand Identity", "Restaurant", "Copywriting", "Signage"]
 date = ""
 default = ""
 frontPageOrder = 2
@@ -47,3 +47,5 @@ workOrder = 2
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-28.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-29.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-paintedpin-30.jpg" >}}
+  
+</div>
