@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "duck"
-categories = ["Signage", "Branding"]
+categories = ["Website", "Restaurant", "Brand Identity", "Signage"]
 date = ""
 default = ""
 frontPageOrder = 712
@@ -10,7 +10,7 @@ homepageSummary = "Duck Pin Bowling never looked so good. Its the venue and even
 projectPageSummary = ""
 subtitle = "UPSCALE DUCK PIN BOWLING AND GAMING"
 title = "THE PAINTED DUCK"
-type = ""
+type = "project"
 workOrder = 5
 
 +++
@@ -41,3 +41,5 @@ workOrder = 5
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck-23.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck-24.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-duck-25.jpg" >}}
+  
+</div>
