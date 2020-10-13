@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "neksto"
-categories = ["Brand Identity", "Signage"]
+categories = ["Naming", "Restaurant", "Brand Identity", "Signage"]
 date = 2020-05-15T04:00:00Z
 default = ""
 frontPageOrder = 701
@@ -41,3 +41,5 @@ src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-03.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-13.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-14.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-neksto-15.jpg" >}}
+  
+</div>
