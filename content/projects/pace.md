@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "pace"
-categories = []
+categories = ["Website", "Signage", "Naming", "Brand Identity"]
 date = ""
 default = ""
 frontPageOrder = 714
@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "GETTING STRONGER ONE AGONIZING POSE AT A TIME"
 title = "PACE"
-type = ""
+type = "project"
 workOrder = 18
 
 +++
@@ -24,3 +24,5 @@ workOrder = 18
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-pace-05.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-pace-06.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-pace-07.jpg">}}
+  
+</div>
