@@ -11,8 +11,9 @@ categories:
 - Signage
 - Copywriting
 - Illustration
-homepageSummary: The fast growing iconic destination for a redefining of what chicken
-  and egg sandwiches should be.
+homepageSummary: The fast growing iconic destination known for redefining of what
+  chicken and egg sandwiches should be. Plus behold the logo the shows the chicken
+  and the egg coming into existence at the same time!
 projectPageSummary: ''
 cardImageSlug: crack
 heroImageSlug: crack
