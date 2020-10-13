@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "mason"
-categories = ["Art Direction", "Website", "Branding"]
+categories = ["Brand Identity", "Art Direction", "Website"]
 date = ""
 default = ""
 frontPageOrder = 718
@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "BRANDING FOR AN NBA PLAYER"
 title = "MASON PLUMLEE"
-type = ""
+type = "project"
 workOrder = 14
 
 +++
@@ -26,3 +26,5 @@ workOrder = 14
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-06.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-mason-07.jpg">}}
 {{< figure class="img-wrap with-no bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-mason-08.gif">}}
+  
+</div>
