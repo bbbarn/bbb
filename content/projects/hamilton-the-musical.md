@@ -2,7 +2,7 @@
 author = "John Turner"
 body_type = "work-page"
 cardImageSlug = "hamilton"
-categories = ["Brand Identity"]
+categories = ["Editorial Design", "Brand Identity"]
 date = 2019-11-25T18:43:38Z
 default = 2019-11-25T18:43:38Z
 frontPageOrder = 1
