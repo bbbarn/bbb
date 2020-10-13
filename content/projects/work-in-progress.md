@@ -15,8 +15,7 @@ type = "project"
 workOrder = 0
 
 +++
-{{< project-description >}}
-<p>A SAMPLE VIEW FROM THE FOLLOWING PROJECTS:<p>Alternate Ending Beer Co. in Aberdeen, NJ<p></p>Le Fantastique Raw Bar in San Francisco, CA<p></p>Boston Rare Maps catalogue<p></p>CANVAS Restaurant and Market in Orlando, FL<p></p>Plough and The Exchange in Lancaster, PA<p></p>TINI Bakery in Milan, IT {{< /project-description >}}
+{{< project-description >}}<p>A SAMPLE VIEW FROM THE FOLLOWING PROJECTS:<p>Alternate Ending Beer Co. in Aberdeen, NJ<p></p>Le Fantastique Raw Bar in San Francisco, CA<p></p>Boston Rare Maps catalogue<p></p>CANVAS Restaurant and Market in Orlando, FL<p></p>Plough and The Exchange in Lancaster, PA<p></p>TINI Bakery in Milan, IT {{< /project-description >}}
 
 <div class="project-item">
 
@@ -30,3 +29,5 @@ workOrder = 0
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-wip-07.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-wip-09.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-wip-10.jpg">}}
+
+</div>
