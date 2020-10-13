@@ -1,13 +1,13 @@
 +++
 author = ""
-cardImageSlug = ""
+cardImageSlug = "wip"
 categories = []
 date = ""
 default = ""
 draft = true
 frontPageOrder = 720
 hero = ""
-homepageSummary = "wip"
+homepageSummary = ""
 projectPageSummary = ""
 subtitle = "PROJECTS IN VARIOUS STATES OF COMPLETION AND SOON TO COME"
 title = "WORK IN PROGRESS"
