@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "tisch"
-categories = []
+categories = ["Art Direction", "Copywriting", "Naming", "Brand Identity"]
 date = ""
 default = ""
 frontPageOrder = 716
@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "THE GALA OF GALAS"
 title = "NYU / TISCH"
-type = ""
+type = "project"
 workOrder = 10
 
 +++
@@ -39,3 +39,5 @@ workOrder = 10
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-tisch-19.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-tisch-20.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-tisch-21.jpg">}}
+  
+</div>
