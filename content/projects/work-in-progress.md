@@ -4,7 +4,6 @@ cardImageSlug = "wip"
 categories = []
 date = ""
 default = ""
-draft = true
 frontPageOrder = 720
 hero = ""
 homepageSummary = ""
