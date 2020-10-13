@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "threesickty"
-categories = ["Brand Identity", "Signage"]
+categories = ["Restaurant", "Brand Identity", "Signage"]
 date = 2020-05-23T04:00:00Z
 default = ""
 frontPageOrder = 7
@@ -36,4 +36,5 @@ workOrder = 7
 {{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-threesickty-12.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net//images/project-threesickty-13.jpg" >}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net//images/project-threesickty-14.jpg" >}}
+
 </div>
