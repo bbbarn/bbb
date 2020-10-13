@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "billies"
-categories = ["Signage", "Brand Identity"]
+categories = ["Restaurant", "Signage", "Brand Identity"]
 date = 2020-06-15T04:00:00Z
 default = ""
 frontPageOrder = 702
