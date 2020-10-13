@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "postin0"
-categories = []
+categories = ["Copywriting", "Restaurant", "Brand Identity", "Website", "Art Direction"]
 date = ""
 default = ""
 frontPageOrder = 4
@@ -28,3 +28,5 @@ workOrder = 5
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-06.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-07.mp4">}}
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-08.gif">}}
+  
+</div>
