@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "wip"
-categories = []
+categories = ["Website", "Signage", "Restaurant", "Packaging", "Naming", "Illustration", "Copywriting", "Brand Identity", "Art Direction"]
 date = ""
 default = ""
 frontPageOrder = 720
