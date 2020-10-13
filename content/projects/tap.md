@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "tap"
-categories = ["Signage", "Brand Identity"]
+categories = ["Website", "Restaurant", "Signage", "Brand Identity"]
 date = 2020-06-17T04:00:00Z
 default = ""
 frontPageOrder = 709
