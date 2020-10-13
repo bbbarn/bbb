@@ -12,7 +12,7 @@ projectPageSummary = ""
 subtitle = "PROJECTS IN VARIOUS STATES OF COMPLETION AND SOON TO COME"
 title = "WORK IN PROGRESS"
 type = "project"
-workOrder = 0
+workOrder = 26
 
 +++
 {{< project-description >}}<p>A SAMPLE VIEW FROM THE FOLLOWING PROJECTS:<p>Alternate Ending Beer Co. in Aberdeen, NJ<p></p>Le Fantastique Raw Bar in San Francisco, CA<p></p>Boston Rare Maps catalogue<p></p>CANVAS Restaurant and Market in Orlando, FL<p></p>Plough and The Exchange in Lancaster, PA<p></p>TINI Bakery in Milan, IT {{< /project-description >}}
