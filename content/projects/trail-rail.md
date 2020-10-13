@@ -1,7 +1,7 @@
 +++
 author = ""
 cardImageSlug = "trailrail"
-categories = ["Packaging", "Branding"]
+categories = ["Illustration", "Brand Identity", "Packaging"]
 date = ""
 default = ""
 frontPageOrder = 711
@@ -10,7 +10,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "INDESTRUCTIBLE, ADAPTIVE GEAR MOUNTING SYSTEM FOR BIKES"
 title = "TRAILRAIL"
-type = ""
+type = "project"
 workOrder = 11
 
 +++
