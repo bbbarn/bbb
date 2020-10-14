@@ -12,7 +12,7 @@ projectPageSummary = ""
 subtitle = "CHICAGO’S NAVY PIER GETS A ROOF TOP EXPERIENCE"
 title = "OFFSHORE"
 type = "project"
-workOrder = 497
+workOrder = 12
 
 +++
 {{< project-description >}}
