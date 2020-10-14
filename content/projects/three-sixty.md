@@ -12,7 +12,7 @@ projectPageSummary = ""
 subtitle = "THE 360° OF ST. LOUIS MISSOURI"
 title = "THREE SIXTY"
 type = "project"
-workOrder = 7
+workOrder = 9
 
 +++
 {{< project-description >}}
