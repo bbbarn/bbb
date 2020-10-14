@@ -12,7 +12,7 @@ projectPageSummary = ""
 subtitle = "RAMEN IN A METAL SHED"
 title = "NEXTO"
 type = "project"
-workOrder = 10
+workOrder = 8
 
 +++
 {{< project-description >}}
