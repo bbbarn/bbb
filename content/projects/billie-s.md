@@ -10,7 +10,7 @@ hero = ""
 homepageSummary = "This is where the description of this project will go."
 projectPageSummary = ""
 subtitle = "REBRAND OF A MAIN STREET STAPLE"
-title = "BILLIE‘S"
+title = "BILLIE’S"
 type = "project"
 workOrder = 6
 
