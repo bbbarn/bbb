@@ -23,7 +23,18 @@ frontPageOrder: 713
 {{< /project-description >}}
 
 <div class="project-item">
-{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-01.jpg" >}}
-{{< figure class="img-wrap with-side-borders with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-02.jpg" >}}
-{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net//images/project-lucky-03.jpg" >}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-01.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-02.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-03.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-04.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-05.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-06.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-07.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-08.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-09.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-10.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-11.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-12.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-13.jpg">}}
+{{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-lucky-14.jpg">}}
 </div>
