@@ -12,7 +12,7 @@ projectPageSummary = ""
 subtitle = "A GASTRO PUB IN ATLANTA, GA"
 title = "TAP"
 type = "project"
-workOrder = 6
+workOrder = 14
 
 +++
 {{< project-description >}}
