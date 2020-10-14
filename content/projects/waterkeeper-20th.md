@@ -16,8 +16,8 @@ workOrder = 11
 
 +++
 {{< project-description >}}
-<p>Waterkeeper Alliance celebrated their 20th anniversary in 2019. With that came an "anniversary edition" of their logo as well as additional branding and promotional items that helped them feature 20 Water Keepers from around the world in celebration of this milestone event. </p>
-<p>One of the real joys of working on a project like this is really good photography capturing really good subject matter. Here we get the portraits of global citizens making a difference. BoyBurnsBarn was tasked with being a steward of these images and the 20th Anniversary branding by laying out two special edition magazine issues, the display and graphics for the Photoville Exhibit in Brooklyn, NY and the digital banners seen at the Cross Roads of the World, Times Square.</p>
+<p>WATERKEEPER ALLIANCE CELEBRATED THEIR 20TH ANNIVERSARY IN 2019. With that came an "anniversary edition" of their logo as well as additional branding and promotional items that helped them feature 20 Water Keepers from around the world in celebration of this milestone event. </p>
+<p>One of the real joys of working on a project like this is building a special identity around great source material and heritage. Collaborating with Waterkeper on the logo was an appetizer for the opportunity to layout two beautiful magazines featuring some of the most important people around the globe protecting our waterways. Here we get the portraits of global citizens making a real difference. BoyBurnsBarn was tasked with being the steward of these images along with 20th Anniversary branding. In addition to the two magazines we also developed the display and graphics for the Photoville Exhibit in Brooklyn, NY and the digital banners seen at the Cross Roads of the World, Times Square!</p>
 {{< /project-description >}}
 
 <div class="project-item">
