@@ -12,7 +12,7 @@ projectPageSummary: ''
 subtitle: Barbecue in Ambler
 title: The Lucky Well
 type: project
-workOrder: 9
+workOrder: 8
 body_type: work-page
 frontPageOrder: 713
 
