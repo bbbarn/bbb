@@ -12,7 +12,7 @@ projectPageSummary = ""
 subtitle = "REBRAND OF A MAIN STREET STAPLE"
 title = "BILLIE‘S"
 type = "project"
-workOrder = 5
+workOrder = 6
 
 +++
 {{< project-description >}}
