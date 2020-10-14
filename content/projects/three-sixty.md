@@ -16,9 +16,9 @@ workOrder = 9
 
 +++
 {{< project-description >}}
-<p>THREE SIXTY HAD ITS GRAND OPENING IN THE SUMMER OF 2011. It is St. Louis's most unique drinking and dining venue. Sitting on the roof of the 26th floor of the Hilton hotel, it overlooks the Gateway Arch, Busch Field and the Mississippi River. As the name suggests; 360° views of St. Louis.</p>
-<p>BoyBurnsBarn was tasked with branding the identity of Three Sixty. The logo takes the numbers 3, 6, and 0 and interlocks them into a single icon. This integration is reflective of how the space flows in one continuous circle and from inside to outside.</p>
-<p>The business card doubles as a landmark finder. On one side we blind embossed the logo at the center and placed all of the city's landmarks in a typographic 360° map. Using the provided magnet, you can anchor the card to point north. Then you have a reference guide to all the things you can see around you.To accompany the business card and menus we created steel menu tents with a water jet cut-out of the logo. These table fixtures serve dual purposes: storage for the single folded menus where they are protected from the rain and wind and as magnetic canvases to hold everything from the check presenter to a magnetic reserved sign.</p>
+<p>THREE SIXTY IS ST. LOUIS'S MOST UNIQUE DRINKING AND DINING VENUE. Sitting on the roof of the 26th floor of the Hilton hotel, it overlooks the Gateway Arch, Busch Field and the Mississippi River. As the name suggests; 360° views of St. Louis.</p>
+<p>BoyBurnsBarn was tasked with branding the identity of Three Sixty and all of its collateral. The logo takes the numbers 3, 6, and 0 and interlocks them into a single icon. This integration is reflective of how the space flows in one continuous circular from inside to outside.</p>
+<p>The business card doubles as a landmark finder. On one side we blind embossed the logo at the center and placed all of the city's landmarks in a typographic 360° map. Using the provided magnet, you can anchor the card to point north. Then you have a reference guide to all the things you can see around you.To accompany the business card and menus we created steel menu tents with a water-jet cut-out of the logo. These table fixtures serve dual purposes: storage for the single folded menus where they are protected from the rain and wind and as magnetic canvases to hold everything from the check presenter to a magnetic reserved sign. The final identity package proved engaging, at times educational and memorable.</p>
 {{< /project-description >}}
 
 <div class="project-item"> 
