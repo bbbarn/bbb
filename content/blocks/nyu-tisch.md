@@ -1,7 +1,7 @@
 +++
 cardImageSlug = "webby"
 frontPageOrder = 2
-homepageSummary = "A quick tour of the Webby experience because its fun to look back and remember."
+homepageSummary = "A quick tour of the Webby experience because it's fun to look back and remember."
 imageLink = ""
 link = "/projects/parish-website/"
 subtitle = "Branding and Website"
