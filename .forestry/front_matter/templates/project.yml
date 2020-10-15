@@ -56,6 +56,12 @@ fields:
     min: 
     max: 
     step: 
+- name: body_type
+  type: text
+  config:
+    required: false
+  label: Body Type
+  description: make it `work-page
 pages:
 - content/projects/billie-s.md
 - content/projects/cook.md
