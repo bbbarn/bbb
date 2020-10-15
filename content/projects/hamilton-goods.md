@@ -12,6 +12,8 @@ subtitle = "YOUNG, SCRAPPY, AND HUNGRY"
 title = "HAMILTON GOODS"
 type = "project"
 workOrder = 15
+bodyType = "work-page"
+
 
 +++
 {{< project-description >}} <p>HAMILTON HAS REDEFINED WHAT A MUSICAL CAN BE. It redefined what historical reenactments can be. It further evolved what hip-hop is. That all said, we were invited by Creative Good NYC to package all that up and make it into something you can wear!. Any show that leaves you smarter than when you arrived and bopping your head the at the same time should be celebrated. There’s been no better way in pop-culture history to mark an event like this than owning the t-shirt from that event. In this case maybe it’s a shirt, or backpack, note pad, blanket, pillow… And, when The Legendary Roots Crew is seen wearing those pieces you know you did something right.<p></p>In the spirit of hip-hop we did some pop culture sampling, remixed some typography, tagged up a shirt or two, and dropped a few rhymes (from the show). The astounding success of Hamilton allowed for a whole line of products to be developed and eventually led to the opening of its own pop-up store in Times Square as well as a partnership with Bloomingdales.</p> {{< /project-description >}}

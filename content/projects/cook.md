@@ -12,6 +12,8 @@ subtitle = "A CLOTHING BRAND THAT BELIEVES TRAVEL MAKES US BETTER PEOPLE"
 title = "COOK"
 type = "project"
 workOrder = 3
+bodyType = "work-page"
+
 
 +++
 {{< project-description >}}
