@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "molly"
-categories = []
+categories = ["Restaurant", "Signage", "Brand Identity"]
 date = ""
 default = ""
 frontPageOrder = 12
