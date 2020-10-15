@@ -36,3 +36,5 @@ workOrder = 12
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-kinekt-14.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-kinekt-15.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://d1mw1d2me4nxfw.cloudfront.net/project-kinekt-16.jpg">}}
+  
+</div>
