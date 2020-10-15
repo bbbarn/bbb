@@ -1,7 +1,8 @@
 +++
 author = "John Turner"
+body_type = "work-page"
 cardImageSlug = "cook"
-categories = ["Brand Identity", "Copywrirting", "Art Direction"]
+categories = ["Copywriting", "Brand Identity", "Art Direction"]
 date = 2020-10-14T04:00:00Z
 default = ""
 frontPageOrder = 5
@@ -12,8 +13,6 @@ subtitle = "A CLOTHING BRAND THAT BELIEVES TRAVEL MAKES US BETTER PEOPLE"
 title = "COOK"
 type = "project"
 workOrder = 3
-body_type = "work-page"
-
 
 +++
 {{< project-description >}}
