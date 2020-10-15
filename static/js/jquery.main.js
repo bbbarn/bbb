@@ -1,6 +1,4 @@
 jQuery(function(){
- jQuery(".bg-stretch").data("srcset", "https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/banner-hamilton.jpg, https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/banner-hamilton.jpg 2x");
- jQuery('.bg-stretch').retinaCover();
 	 
     window.stickies = [];
     initRetinaCover();
@@ -904,22 +902,25 @@ $(document).ready(function(){
 
  $(document).ready(function(){
      init();
+	 windowWidth = $(window).width()
+     if (windowWidth > 768) {
 	 
-	 images = ["project-hamilton-11.jpg",
-		 	   "banner-duck.jpg",
-	 		   "banner-cook.jpg",
-		 	   "project-billies-16.jpg",
-	 		   "project-neksto-11.jpg",
-	 		   "banner-img-crack.jpg"]
+		 images = ["project-hamilton-11.jpg",
+			 	   "banner-duck.jpg",
+		 		   "banner-cook.jpg",
+			 	   "project-billies-16.jpg",
+		 		   "project-neksto-11.jpg",
+		 		   "banner-img-crack.jpg"]
 	 
-	 var i = 0
-	 changeImage = function(){
-		 jQuery(".jumbotron-img .bg-stretch").css("background-image", "url('https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/"+ images[i % images.length] +"')");
-		 i += 1;
+		 var i = 0
+		 changeImage = function(){
+			 jQuery(".jumbotron-img .bg-stretch").css("background-image", "url('https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/"+ images[i % images.length] +"')");
+			 i += 1;
+		 }
+	 
+	 
+		 setInterval(changeImage, 1000)
 	 }
-	 
-	 
-	 setInterval(changeImage, 1000)
 	 
 	 
      // initRetinaCover();
@@ -933,7 +934,6 @@ $(document).ready(function(){
      // $("hr.main").width($(window).width() - 30)
      $(window).on('resize', function(){
        // console.log($(window).width());
-	   windowWidth = $(window).width()
 	   if ( windowWidth < 1450 && windowWidth > 768) {
 		   $("#smoke").css("left", 220 - (1450 - windowWidth)/2);
 	   }
