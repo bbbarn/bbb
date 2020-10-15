@@ -2,7 +2,7 @@
 author = ""
 body_type = "work-page"
 cardImageSlug = "kinekt"
-categories = []
+categories = ["Packaging", "Illustration", "Copywriting", "Brand Identity"]
 date = ""
 default = ""
 draft = true
