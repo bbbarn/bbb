@@ -5,7 +5,6 @@ cardImageSlug = "molly"
 categories = []
 date = ""
 default = ""
-draft = true
 frontPageOrder = 12
 hero = ""
 homepageSummary = ""
