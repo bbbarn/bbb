@@ -5,7 +5,6 @@ cardImageSlug = "kinekt"
 categories = ["Packaging", "Illustration", "Copywriting", "Brand Identity"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 33
 hero = ""
 homepageSummary = ""
