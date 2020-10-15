@@ -1,8 +1,8 @@
 +++
-author = ""
+author = "John Turner"
 cardImageSlug = "cook"
 categories = ["Brand Identity", "Copywrirting", "Art Direction"]
-date = ""
+date = 2020-10-14T04:00:00Z
 default = ""
 frontPageOrder = 5
 hero = ""
