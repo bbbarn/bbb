@@ -12,7 +12,7 @@ subtitle = "THE REBRAND OF A HISTORICAL ICON"
 title = "MATTEI’S TAVERN"
 type = "project"
 workOrder = 9
-bodyType = "work-page"
+body_type = "work-page"
 
 +++
 {{< project-description >}} <p>MATTEI’S TAVERN IS A LANDMARK RESTAURANT IN LOS OLIVOS, CA that has been a thriving establishment from the last days of the stagecoach to present day. With new owners in place, BoyBurnsBarn was tasked with bridging the past with the present. For the logo we modified a serif font to a more stylized yet elegant logo typeface. In addition to the logotype there is a modern brand seal to accompany it. The two work in tandem to deliver a balance of rustic luxury. The additional collateral maintains this balance. Letter pressed business cards with "postage stamp" edges are almost too good to give away. The oversized menu wraps custom wood backers. The mixed drink menu is in the form of a large book mark tucked in old vintage books around the bar. While the kid's menu is a ViewFinder that can't be resisted no matter what age you are. Hidden details are everywhere in the Mattei's branding making each touchpoint a new discovery. Here’s to another another 150 years!</p> {{< /project-description >}}

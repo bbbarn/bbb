@@ -12,7 +12,7 @@ subtitle = "THE HAPPIEST WINE BAR YOU’VE EVER MET"
 title = "POSTINO"
 type = "project"
 workOrder = 7
-bodyType = "work-page"
+body_type = "work-page"
 
 +++
 {{< project-description >}} <p>BASED IN PHOENIX, ARIZONA, POSTINO IS RUN BY SOME OF THE MOST FUN, PASSIONATE PEOPLE YOU WILL EVER MEET. Which means that Postino itself is like no other wine bar you will ever visit. And, somehow each of the seven locations are unique unto themselves while still being on brand! Mindblowing...</p>

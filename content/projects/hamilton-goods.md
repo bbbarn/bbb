@@ -12,7 +12,7 @@ subtitle = "YOUNG, SCRAPPY, AND HUNGRY"
 title = "HAMILTON GOODS"
 type = "project"
 workOrder = 15
-bodyType = "work-page"
+body_type = "work-page"
 
 
 +++
