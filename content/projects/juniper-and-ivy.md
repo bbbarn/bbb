@@ -5,7 +5,6 @@ cardImageSlug = "juniper"
 categories = ["Restaurant", "Signage", "Brand Identity"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 77
 hero = ""
 homepageSummary = ""
