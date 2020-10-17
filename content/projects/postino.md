@@ -27,7 +27,7 @@ workOrder = 7
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-04.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-05.jpg">}}
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-06.jpg">}}
-{{< figure class="img-wrap with-bottom-border" ><<video src="https://s3.amazonaws.com/bbbarn-images/project-postino-07.mp4" loop muted autoplay></video></figure>
+<figure class="img-wrap with-bottom-border" ><video src="https://s3.amazonaws.com/bbbarn-images/project-postino-07.mp4" loop muted autoplay></video></figure>
 {{< figure class="img-wrap with-bottom-border" src="https://s3.amazonaws.com/bbbarn-images/project-postino-08.gif">}}
   
 </div>
