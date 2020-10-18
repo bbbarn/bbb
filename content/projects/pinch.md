@@ -5,7 +5,6 @@ cardImageSlug = "pinch"
 categories = ["Packaging", "Brand Identity"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 501
 hero = ""
 homepageSummary = ""
