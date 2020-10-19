@@ -900,7 +900,79 @@ $(document).ready(function(){
     };
  }(jQuery));
 
- $(document).ready(function(){
+
+function submitToAPI(e) {
+       e.preventDefault();
+       var URL = "https://4e44vshpdb.execute-api.us-east-1.amazonaws.com/production/conatact-us";
+
+            var Namere = /[A-Za-z]{1}[A-Za-z]/;
+            if (!Namere.test($("#firstname").val())) {
+                         alert ("First name can not less than 2 char");
+                return;
+            }
+            if (!Namere.test($("#lastname").val())) {
+                         alert ("Last name can not less than 2 char");
+                return;
+            }
+            if (!Namere.test($("#company").val())) {
+                         alert ("Last name can not less than 2 char");
+                return;
+            }
+            // var mobilere = /[0-9]{10}/;
+            // if (!mobilere.test($("#phone-input").val())) {
+            //     alert ("Please enter valid mobile number");
+            //     return;
+            // }
+            if ($("#email").val()=="") {
+                alert ("Please enter your email id");
+                return;
+            }
+
+            var reeamil = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
+            if (!reeamil.test($("#email").val())) {
+                alert ("Please enter valid email address");
+                return;
+            }
+
+       var firstname = $("#lastname").val();
+       var lastname = $("#firstname").val();
+       var email = $("#email").val();
+       var company = $("#company").val();
+       var description = $("#description").val();
+       var data = {
+          firstname : firstname,
+          lastname : lastname,
+          email : email,
+          company: company,
+          description : description
+        };
+		console.log(data)
+       $.ajax({
+         type: "POST",
+         url : URL,
+         dataType: "json",
+         crossDomain: "true",
+         contentType: "application/json; charset=utf-8",
+         data: JSON.stringify(data),
+
+         
+         success: function () {
+           // clear form and show a success message
+             document.getElementById("contact-form").reset();
+			 $(".form-title").html("Thanks!!!");
+			 $("#contact-form").fadeOut();
+       // location.reload();
+         },
+         error: function () {
+           // show an error message
+           alert("UnSuccessfull");
+         }});
+}
+
+$(document).ready(function(){
+	$("#contact-form").submit(function(event){
+		submitToAPI(event)
+	})
      init();
 	 windowWidth = $(window).width()
      if (windowWidth > 768) {
