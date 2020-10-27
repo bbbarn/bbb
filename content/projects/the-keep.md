@@ -5,7 +5,6 @@ cardImageSlug = "keep"
 categories = ["Signage", "Restaurant", "Naming", "Brand Identity"]
 date = ""
 default = ""
-draft = true
 frontPageOrder = 714
 hero = ""
 homepageSummary = ""
