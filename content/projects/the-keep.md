@@ -2,7 +2,7 @@
 author = ""
 body_type = ""
 cardImageSlug = "keep"
-categories = []
+categories = ["Signage", "Restaurant", "Naming", "Brand Identity"]
 date = ""
 default = ""
 draft = true
@@ -12,7 +12,7 @@ homepageSummary = ""
 projectPageSummary = ""
 subtitle = "PUTTING A FLAG ON THE LEVEQUE TOWER"
 title = "THE KEEP"
-type = ""
+type = "project"
 workOrder = 0
 
 +++
