@@ -1,18 +1,18 @@
 +++
 author = ""
-body_type = ""
+body_type = "work-page"
 cardImageSlug = "keep"
 categories = ["Signage", "Restaurant", "Naming", "Brand Identity"]
 date = ""
 default = ""
 draft = true
-frontPageOrder = 0
+frontPageOrder = 714
 hero = ""
 homepageSummary = ""
 projectPageSummary = ""
 subtitle = "PUTTING A FLAG ON THE LEVEQUE TOWER"
 title = "THE KEEP"
 type = "project"
-workOrder = 0
+workOrder = 10
 
 +++
