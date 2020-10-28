@@ -977,22 +977,62 @@ $(document).ready(function(){
      init();
 	 windowWidth = $(window).width()
      if (windowWidth > 768) {
-	 
-		 images = ["project-hamilton-11.jpg",
-			 	   "banner-duck.jpg",
-		 		   "banner-cook.jpg",
-			 	   "project-billies-16.jpg",
-		 		   "project-neksto-11.jpg",
-		 		   "banner-img-crack.jpg"]
-	 
-		 var i = 0
+	     var jumboCount = $('.jumbotron-img .bg-stretch').length;
+		 var counter = 2;
+		 var prev = jumboCount;
+		 // console.log("jumbo: "+jumboCount)
+		 
 		 changeImage = function(){
-			 jQuery(".jumbotron-img .bg-stretch").css("background-image", "url('https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/"+ images[i % images.length] +"')");
-			 i += 1;
+			 // console.log(counter)
+			 if (counter == 1) {
+				 prev = jumboCount;
+			 } else {
+				 prev = counter - 1;
+			 }
+			 // console.log("prev " + prev)
+		 	$('.jumbotron-img .bg-stretch').css({'z-index':'1', 'opacity':'0'})
+            $('.jumbotron-img .bg-stretch:nth-child('+prev+')').css({'opacity':'1'})
+            $('.jumbotron-img .bg-stretch:nth-child('+counter+')').css({'opacity':'0','display':'block','z-index':'2'})
+            $('.jumbotron-img .bg-stretch:nth-child('+counter+')').animate({'opacity':'1'},2000)
+			 
+             counter++
+
+             // make sure we're working within the quantity of images we have
+             if( counter > jumboCount ){ counter = 1 }
+			 
+			
 		 }
-	 
-	 
-		 setInterval(changeImage, 1000)
+		 setTimeout(changeImage, 2000);
+		 makeItInterval = function(){
+		 	setInterval(changeImage, 4000)
+		 }
+		 setTimeout(makeItInterval, 2000)
+		 
+
+		 
+		 //
+		 // images = ["project-hamilton-11.jpg",
+		 // 			 	   "banner-duck.jpg",
+		 // 		   "banner-cook.jpg",
+		 // 			 	   "project-billies-16.jpg",
+		 // 		   "project-neksto-11.jpg",
+		 // 		   "banner-img-crack.jpg"]
+		 // imagesLoaded = []
+		 // for (i = 0; i < images.length; i++){
+		 // 			img = new Image();
+		 // 			img.src = "https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/" + images[i];
+		 // 			imagesLoaded.push(img)
+		 // }
+		 //
+		 // var i = 0
+		 // changeImage = function(){
+		 // 			 if (imagesLoaded[i % images.length].complete){
+		 // 				 jQuery(".jumbotron-img .bg-stretch").css("background-image", "url('https://d1mw1d2me4nxfw.cloudfront.net/filters:autojpg()/"+ images[i % images.length] +"')");
+		 // 			 }
+		 // 			 i += 1;
+		 // }
+		 //
+		 //
 	 }
 	 
 	 
