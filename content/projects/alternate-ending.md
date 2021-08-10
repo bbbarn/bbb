@@ -2,7 +2,7 @@
 author = "John Turner"
 body_type = "work-page"
 cardImageSlug = "altend"
-categories = []
+categories = ["Signage", "Copywriting", "Restaurant", "Brand Identity"]
 date = ""
 default = ""
 frontPageOrder = 716
