@@ -5,7 +5,6 @@ cardImageSlug = "altend"
 categories = []
 date = ""
 default = ""
-draft = true
 frontPageOrder = 716
 hero = ""
 homepageSummary = ""
