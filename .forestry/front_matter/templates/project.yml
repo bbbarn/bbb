@@ -63,6 +63,7 @@ fields:
   label: Body Type
   description: make it `work-page
 pages:
+- content/projects/alternate-ending.md
 - content/projects/billie-s.md
 - content/projects/cook.md
 - content/projects/hamilton-goods.md
